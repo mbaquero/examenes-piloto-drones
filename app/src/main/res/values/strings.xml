@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Spanish is the default language. Add values-xx folders to localize. -->
+<resources>
+    <string name="app_name">Exámenes Piloto Drones</string>
+
+    <!-- Navigation -->
+    <string name="tab_home">Inicio</string>
+    <string name="tab_topics">Temario</string>
+    <string name="tab_practice">Practicar</string>
+    <string name="tab_exam">Examen</string>
+    <string name="tab_progress">Progreso</string>
+    <string name="back">Volver</string>
+    <string name="back_home">Volver al inicio</string>
+    <string name="settings">Ajustes</string>
+    <string name="cancel">Cancelar</string>
+    <string name="clear">Borrar</string>
+    <string name="expand">Desplegar</string>
+    <string name="collapse">Plegar</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="submit">Entregar</string>
+    <string name="options">Opciones</string>
+    <string name="official">Oficial</string>
+    <string name="none_yet">Ninguno todavía</string>
+    <string name="minutes_n">%d min</string>
+    <string name="version">Versión %s</string>
+
+    <!-- Home -->
+    <string name="home_overall_progress">Progreso global</string>
+    <string name="home_progress_detail">Lectura del temario: %1$s · Preguntas dominadas: %2$s</string>
+    <string name="home_questions_available">Preguntas disponibles</string>
+    <string name="home_topics_completed">Temas completados</string>
+    <string name="home_modes">Modos de estudio</string>
+    <string name="mode_study_title">Estudiar temario</string>
+    <string name="mode_study_desc">Lee cada tema de principio a fin</string>
+    <string name="mode_practice_title">Preguntas en vivo</string>
+    <string name="mode_practice_desc">Responde y recibe la corrección al instante</string>
+    <string name="mode_exam_title">Modo examen</string>
+    <string name="mode_exam_desc">Simula un examen con tiempo y nota de corte</string>
+    <string name="home_recent_exams">Últimos exámenes</string>
+    <string name="see_history">Historial</string>
+    <string name="home_no_exams">Aún no has realizado ningún examen.</string>
+    <string name="resume_exam">Continuar examen</string>
+    <string name="resume_exam_detail">Pregunta %1$d de %2$d</string>
+    <string name="resume_practice">Continuar práctica</string>
+    <string name="resume_practice_detail">Pregunta %1$d de %2$d</string>
+    <string name="resume_reading">Seguir leyendo</string>
+    <string name="passed">Apto</string>
+    <string name="failed">No apto</string>
+    <plurals name="exam_row_detail">
+        <item quantity="one">%1$d de %2$d pregunta correcta</item>
+        <item quantity="other">%1$d de %2$d preguntas correctas</item>
+    </plurals>
+
+    <!-- Import -->
+    <string name="filter_all_count">Todas (%d)</string>
+
+    <!-- Question issues / editor -->
+
+    <!-- Topics / reader -->
+    <string name="search_syllabus">Buscar en el temario</string>
+    <string name="search_no_results">Sin resultados.</string>
+    <string name="no_content_title">Sin temario</string>
+    <string name="no_content_message">El temario no está disponible.</string>
+    <string name="topic_no_questions">Sin preguntas asociadas</string>
+    <plurals name="topic_questions">
+        <item quantity="one">%d pregunta</item>
+        <item quantity="other">%d preguntas</item>
+    </plurals>
+    <string name="completed">Completado</string>
+    <string name="open_topic">Abrir tema</string>
+    <string name="topic_code">Apartado %s</string>
+    <string name="bookmarks">Marcadores</string>
+    <string name="no_bookmarks">Sin marcadores. Mantén pulsado un párrafo para añadirlo.</string>
+    <string name="bookmark_added">Marcador añadido</string>
+    <string name="bookmark_removed">Marcador eliminado</string>
+    <string name="mark_completed">Marcar como completado</string>
+    <string name="mark_not_completed">Marcar como no completado</string>
+    <string name="reader_bookmark_hint">Mantén pulsado un párrafo para guardarlo en marcadores.</string>
+    <string name="reader_end_of_topic">Fin del tema</string>
+    <string name="practice_this_topic">Practicar preguntas de este tema</string>
+    <string name="next_topic">Siguiente: %s</string>
+    <string name="topic_missing_title">Tema no disponible</string>
+    <string name="topic_missing_message">Este tema no está disponible.</string>
+
+    <!-- Practice -->
+    <string name="practice_type">Tipo de práctica</string>
+    <string name="practice_random">Aleatoria general</string>
+    <string name="practice_random_desc">Preguntas de todo el banco (%d)</string>
+    <string name="practice_by_topic">Por temas</string>
+    <string name="practice_by_topic_desc">Elige uno o varios temas</string>
+    <string name="select_topics">Temas</string>
+    <string name="select_all">Todos</string>
+    <string name="select_none">Ninguno</string>
+    <string name="number_of_questions">Número de preguntas</string>
+    <string name="all_questions_n">Todas (%d)</string>
+    <string name="questions_selected">%1$d de %2$d disponibles</string>
+    <string name="prioritize_weak">Priorizar falladas y no respondidas</string>
+    <string name="prioritize_weak_desc">Primero las que fallaste la última vez, después las que nunca has visto</string>
+    <string name="shuffle_questions">Orden aleatorio de preguntas</string>
+    <string name="shuffle_options">Barajar respuestas</string>
+    <string name="shuffle_options_desc">No se barajan las preguntas cuyas respuestas se refieren a otras (\"las dos anteriores\"…)</string>
+    <string name="start_practice">Empezar a practicar</string>
+    <string name="start_practice_n">Empezar (%d preguntas)</string>
+    <string name="select_topic_first">Selecciona al menos un tema</string>
+    <string name="no_questions_title">Sin preguntas</string>
+    <string name="no_questions_message">No hay preguntas disponibles para practicar.</string>
+    <string name="question_x_of_n">Pregunta %1$d de %2$d</string>
+    <string name="practice_running_score">Aciertos: %1$d de %2$d</string>
+    <string name="check_answer">Comprobar</string>
+    <string name="next_question">Siguiente pregunta</string>
+    <string name="see_summary">Ver resumen</string>
+    <string name="exit_session">Salir</string>
+    <string name="exit_session_title">¿Salir de la práctica?</string>
+    <string name="exit_session_message">Tu progreso se guarda. Puedes continuar más tarde desde Inicio o terminar ahora y ver el resumen.</string>
+    <string name="exit_continue_later">Salir y continuar después</string>
+    <string name="finish_now">Terminar</string>
+    <string name="session_missing_title">Sesión no disponible</string>
+    <string name="session_missing_message">Las preguntas de esta sesión ya no están disponibles.</string>
+    <string name="feedback_correct">¡Correcto!</string>
+    <string name="feedback_wrong">Incorrecto</string>
+    <string name="feedback_correct_answer">Respuesta correcta: %s</string>
+    <string name="option_selected">Seleccionada</string>
+    <string name="option_your_correct">Tu respuesta · correcta</string>
+    <string name="option_correct">Respuesta correcta</string>
+    <string name="option_your_wrong">Tu respuesta · incorrecta</string>
+    <string name="explanation">Justificación en el temario</string>
+    <string name="related_theory">Teoría relacionada</string>
+    <string name="related_theory_none">No se ha encontrado un fragmento del temario claramente relacionado. Puedes abrir el tema completo.</string>
+    <string name="related_theory_note">Fragmento literal del temario, seleccionado automáticamente.</string>
+    <string name="read_full_theory">Leer la teoría completa</string>
+    <string name="practice_summary">Resumen de la práctica</string>
+    <string name="accuracy">acierto</string>
+    <string name="answered">Respondidas</string>
+    <string name="correct">Correctas</string>
+    <string name="incorrect">Incorrectas</string>
+    <string name="unanswered">Sin responder</string>
+    <string name="correct_one">Correcta</string>
+    <string name="incorrect_one">Incorrecta</string>
+    <string name="unanswered_one">Sin responder</string>
+    <string name="by_topic">Resultado por tema</string>
+    <string name="incorrect_questions">Preguntas falladas</string>
+    <string name="your_answer">Tu respuesta: %s</string>
+    <string name="correct_answer">Respuesta correcta: %s</string>
+    <string name="see_theory">Ver teoría</string>
+    <string name="retry_wrong">Repetir las %d falladas</string>
+    <string name="new_session">Nueva sesión</string>
+    <string name="encourage_high">¡Muy buen trabajo! Sigue así.</string>
+    <string name="encourage_mid">Vas por buen camino. Repasa las falladas.</string>
+    <string name="encourage_low">Repasa la teoría de los temas con más fallos y vuelve a intentarlo.</string>
+
+    <string name="questions_disclaimer">Preguntas de práctica elaboradas a partir del temario de AESA (FOR-UAS-P01-DT01, ed. 9): no son preguntas oficiales del examen. Cada respuesta correcta cita la frase literal del PDF que la justifica.</string>
+
+    <!-- Exam -->
+    <string name="exam_official">Examen oficial</string>
+    <string name="exam_official_desc">%1$d preguntas · %2$d minutos · apto con %3$d aciertos</string>
+    <string name="exam_distribution">Reparto por tema: %s</string>
+    <string name="exam_custom">Examen personalizado</string>
+    <string name="exam_custom_desc">Elige temas, número de preguntas, tiempo y puntuación</string>
+    <string name="exam_scope">Contenido</string>
+    <string name="whole_syllabus">Todo el temario</string>
+    <string name="selected_topics">Temas seleccionados</string>
+    <string name="exam_count_limited">Solo hay %d preguntas disponibles en la selección.</string>
+    <string name="random_selection">Selección aleatoria</string>
+    <string name="random_selection_desc">Si se desactiva, se toman las preguntas en el orden del temario</string>
+    <string name="time_limit">Tiempo límite</string>
+    <string name="scoring">Puntuación</string>
+    <string name="penalty_per_wrong">Penalización por respuesta incorrecta</string>
+    <string name="penalty_note">El temario no establece un formato de examen ni penalización: por defecto los fallos no restan. Las preguntas sin responder nunca restan.</string>
+    <string name="pass_threshold">Nota para aprobar: %s</string>
+    <string name="exam_rules_note">Durante el examen no se muestran respuestas, explicaciones ni teoría. Podrás revisarlo todo al entregar.</string>
+    <string name="start_exam">Empezar examen</string>
+    <string name="start_exam_n">Empezar examen (%d preguntas)</string>
+    <string name="exam_overview">Resumen del examen</string>
+    <string name="overview_legend">Las preguntas respondidas aparecen rellenas. Toca un número para ir a esa pregunta.</string>
+    <string name="exam_change_hint">Puedes cambiar tu respuesta hasta entregar el examen. Toca de nuevo una opción para dejarla en blanco.</string>
+    <string name="review_and_submit">Revisar y entregar</string>
+    <string name="submit_exam">Entregar examen</string>
+    <string name="keep_answering">Seguir respondiendo</string>
+    <string name="submit_exam_title">¿Entregar el examen?</string>
+    <string name="submit_all_answered">Has respondido todas las preguntas. Una vez entregado no podrás cambiar tus respuestas.</string>
+    <plurals name="submit_with_unanswered">
+        <item quantity="one">Tienes %d pregunta sin responder, que contará como no respondida. Una vez entregado no podrás cambiar tus respuestas.</item>
+        <item quantity="other">Tienes %d preguntas sin responder, que contarán como no respondidas. Una vez entregado no podrás cambiar tus respuestas.</item>
+    </plurals>
+    <plurals name="answered_of">
+        <item quantity="one">%1$d de %2$d respondida</item>
+        <item quantity="other">%1$d de %2$d respondidas</item>
+    </plurals>
+    <string name="exit_exam_title">¿Salir del examen?</string>
+    <string name="exit_exam_message">Tus respuestas se guardan y el tiempo se detiene. Podrás continuar el examen desde Inicio.</string>
+    <string name="exam_result">Resultado del examen</string>
+    <string name="result_passed">APTO</string>
+    <string name="result_failed">NO APTO</string>
+    <string name="pass_threshold_was">Nota necesaria: %s</string>
+    <string name="score">Puntuación</string>
+    <string name="penalty_applied">Penalización: −%s por fallo</string>
+    <string name="time_spent">Tiempo empleado</string>
+    <string name="of_limit">de %s</string>
+    <string name="comparison">Comparación</string>
+    <string name="vs_last_exam">Respecto al examen anterior: %s</string>
+    <string name="vs_average">Respecto a tu media: %1$s (media %2$s en %3$d exámenes)</string>
+    <string name="review_questions">Revisar todas las preguntas</string>
+    <string name="review_mistakes">Revisar fallos y en blanco</string>
+    <string name="repeat_exam">Repetir con nuevas preguntas</string>
+    <string name="exam_missing_title">Examen no disponible</string>
+    <string name="exam_missing_message">Este examen no existe o aún no se ha entregado.</string>
+    <string name="exam_review">Revisión del examen</string>
+    <string name="filter_wrong_count">Incorrectas (%d)</string>
+    <string name="filter_correct_count">Correctas (%d)</string>
+    <string name="filter_unanswered_count">Sin responder (%d)</string>
+    <string name="review_empty">No hay preguntas con este filtro.</string>
+
+    <!-- Progress -->
+    <string name="statistics">Estadísticas</string>
+    <string name="exam_history">Historial</string>
+    <string name="no_history_title">Sin exámenes</string>
+    <string name="no_history_message">Cuando entregues un examen aparecerá aquí, con todas tus respuestas.</string>
+    <string name="no_stats_title">Aún no hay datos</string>
+    <string name="no_stats_message">Practica o haz un examen para ver tus estadísticas.</string>
+    <string name="exams_completed">Exámenes</string>
+    <string name="average_score">Media</string>
+    <string name="best_score">Mejor</string>
+    <string name="questions_answered">Respuestas</string>
+    <string name="overall_accuracy">Acierto global</string>
+    <string name="pass_rate">Aptos</string>
+    <string name="recent_trend">Tendencia (últimos exámenes)</string>
+    <string name="trend_up">Has mejorado %s puntos desde el primero de la serie</string>
+    <string name="trend_down">Has bajado %s puntos desde el primero de la serie</string>
+    <string name="accuracy_by_topic">Acierto por tema</string>
+    <string name="strong_topics">Dominas</string>
+    <string name="weak_topics">Necesitas repasar</string>
+    <string name="min_answers_note">Se necesitan al menos 5 respuestas de un tema para clasificarlo.</string>
+    <string name="practice_weak_topics">Practicar estos temas</string>
+    <string name="most_missed">Preguntas más falladas</string>
+    <string name="missed_times">Fallada %1$d de %2$d veces</string>
+    <string name="question_not_in_material">(Pregunta que ya no está en el material actual)</string>
+    <string name="practice_missed">Practicar estas %d preguntas</string>
+
+    <!-- Settings -->
+    <string name="appearance">Apariencia</string>
+    <string name="theme">Tema</string>
+    <string name="theme_system">Sistema</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Oscuro</string>
+    <string name="language">Idioma</string>
+    <string name="language_system">Sistema</string>
+    <string name="language_es">Español</string>
+    <string name="reading_text_size">Tamaño del texto de lectura: %d %%</string>
+    <string name="default_practice_count">Preguntas por práctica: %d</string>
+    <string name="exam_defaults_note">Valores por defecto del examen personalizado (el temario no define un formato oficial de examen).</string>
+    <string name="default_exam_length">Número de preguntas</string>
+    <string name="exam_timer">Temporizador</string>
+    <string name="study_material">Material de estudio</string>
+    <string name="no_document">El temario aún no está preparado.</string>
+    <string name="document_summary">Temario incluido en la app: %1$d temas y %2$d preguntas.</string>
+    <string name="data">Datos</string>
+    <string name="export_csv">Exportar historial (CSV)</string>
+    <string name="export_json">Exportar historial (JSON)</string>
+    <string name="export_done">Historial exportado</string>
+    <string name="export_failed">No se ha podido exportar</string>
+    <string name="reset_progress">Borrar progreso</string>
+    <string name="reset_title">¿Borrar todo el progreso?</string>
+    <string name="reset_message">Se eliminarán el historial de exámenes, las prácticas, las estadísticas, los marcadores y el progreso de lectura. El temario importado no se borra. Esta acción no se puede deshacer. Escribe %s para confirmar.</string>
+    <string name="reset_keyword">BORRAR</string>
+    <string name="reset_confirm">Borrar definitivamente</string>
+    <string name="reset_done">Progreso borrado</string>
+
+    <!-- Built-in content -->
+    <string name="preparing_title">Preparando el temario</string>
+    <string name="preparing_note">Solo ocurre la primera vez que abres la app.</string>
+    <string name="preparing_failed">No se ha podido preparar el temario: %s</string>
+    <string name="retry">Reintentar</string>
+
+    <!-- Accessibility -->
+    <string name="cd_bookmarked">Con marcador</string>
+    <string name="cd_pdf_image">Imagen del PDF</string>
+    <string name="cd_trend_chart">Gráfico de evolución: %s</string>
+    <string name="cd_time_remaining">Tiempo restante %s</string>
+    <string name="cd_question_answered">Pregunta %d, respondida</string>
+    <string name="cd_question_unanswered">Pregunta %d, sin responder</string>
+</resources>

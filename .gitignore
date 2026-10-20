@@ -1,0 +1,11 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.kotlin/
+# Study material is user data; it is only used locally by the optional end-to-end parser test.
+# The study PDF is part of the app (bundled at build time), so it is tracked.

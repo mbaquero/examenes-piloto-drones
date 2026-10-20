@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Open book -->
+    <path android:fillColor="#FFF4EBD0"
+        android:pathData="M30,38 C38,35 46,36 53,40 L53,74 C46,70 38,69 30,72 Z" />
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M55,40 C62,36 70,35 78,38 L78,72 C70,69 62,70 55,74 Z" />
+    <!-- Check mark -->
+    <path android:strokeColor="#FF2E5E3E" android:strokeWidth="4" android:strokeLineCap="round"
+        android:strokeLineJoin="round" android:fillColor="#00000000"
+        android:pathData="M60,56 L65,61 L73,50" />
+</vector>

@@ -1,0 +1,3462 @@
+{
+ "version": 1,
+ "source": "AESA · FOR-UAS-P01-DT01 Ed.09 (Versión 9, julio 2024)",
+ "questions": [
+  {
+   "id": "p004-1",
+   "page": 4,
+   "question": "¿Qué engloba el término UAS?",
+   "options": [
+    "Los RPAS y las aeronaves autónomas",
+    "Solo las aeronaves pilotadas por control remoto",
+    "Solo las aeronaves autónomas, en las que el piloto no puede intervenir"
+   ],
+   "answer": 0,
+   "source": "El término UAS engloba los RPAS y las aeronaves autónomas"
+  },
+  {
+   "id": "p004-2",
+   "page": 4,
+   "question": "¿Qué es un RPAS?",
+   "options": [
+    "Una aeronave pilotada a distancia, su estación, los enlaces de mando y control y cualquier otro componente según su diseño",
+    "Cualquier aeronave de tamaño reducido usada para vuelos deportivos",
+    "Una aeronave que vuela de forma autónoma sin que el piloto pueda intervenir"
+   ],
+   "answer": 0,
+   "source": "Aeronave pilotada a distancia, su estación, los enlaces requeridos de mando y control y cualquier otro componente según lo indicado en el diseño de la aeronave."
+  },
+  {
+   "id": "p005-1",
+   "page": 5,
+   "question": "Según el temario, ¿qué es un aeromodelo?",
+   "options": [
+    "Cualquier UAS de más de 25 kg",
+    "El término que usan los Reglamentos (UE) para todas las aeronaves no tripuladas",
+    "Una aeronave de tamaño reducido pilotada a distancia, usada principalmente para vuelos deportivos o experimentales"
+   ],
+   "answer": 2,
+   "source": "Aeronave de tamaño reducido pilotado a distancia usada principalmente para vuelos deportivos o experimentales."
+  },
+  {
+   "id": "p005-2",
+   "page": 5,
+   "question": "¿Qué término se usa siempre en los Reglamentos (UE) 2019/945 y 2019/947?",
+   "options": [
+    "RPAS",
+    "UAS",
+    "Dron"
+   ],
+   "answer": 1,
+   "source": "En los Reglamentos (UE) 2019/945 y (UE) 2019/947 siempre se usará el termino UAS"
+  },
+  {
+   "id": "p005-3",
+   "page": 5,
+   "question": "La palabra «dron» es…",
+   "options": [
+    "El término oficial de los reglamentos europeos",
+    "Una palabra coloquial para referirse en general a todas las aeronaves no tripuladas",
+    "Un tipo de aeronave tripulada ligera"
+   ],
+   "answer": 1,
+   "source": "Palabra coloquialmente usada para referirse en general a todas las aeronaves no tripuladas."
+  },
+  {
+   "id": "p006-1",
+   "page": 6,
+   "question": "¿Quién es el operador de UAS?",
+   "options": [
+    "Únicamente la persona física que maneja los mandos",
+    "Cualquier persona, física o jurídica, que sea propietaria de un UAS o lo alquile",
+    "Solo las empresas que ofrecen servicios con UAS"
+   ],
+   "answer": 1,
+   "source": "Es cualquier persona, física o jurídica, que sea propietaria de un UAS o lo alquile."
+  },
+  {
+   "id": "p006-2",
+   "page": 6,
+   "question": "Si un piloto a distancia utiliza un UAS para volar en su tiempo libre…",
+   "options": [
+    "Solo es operador si el UAS pesa más de 250 g",
+    "No se le considera operador de UAS",
+    "También es operador de UAS"
+   ],
+   "answer": 2,
+   "source": "En aquellos casos en los que un piloto a distancia utiliza un UAS para volar en su tiempo libre, esa persona también es un operador de UAS."
+  },
+  {
+   "id": "p006-3",
+   "page": 6,
+   "question": "¿Quién es el piloto a distancia?",
+   "options": [
+    "La persona que observa el espacio aéreo para detectar peligros",
+    "Toda persona física responsable de la conducción segura del vuelo de un UAS mediante sus mandos de vuelo",
+    "La persona jurídica propietaria del UAS"
+   ],
+   "answer": 1,
+   "source": "Es toda persona física responsable de la conducción segura del vuelo de un UAS mediante la utilización de sus mandos de vuelo"
+  },
+  {
+   "id": "p006-4",
+   "page": 6,
+   "question": "¿Se puede ser piloto a distancia sin ser operador?",
+   "options": [
+    "Sí, por ejemplo si el piloto trabaja para una compañía que ofrece servicios con UAS",
+    "Solo en la categoría «certificada»",
+    "No, piloto y operador son siempre la misma persona"
+   ],
+   "answer": 0,
+   "source": "se puede ser piloto a distancia sin necesidad de ser operador, por ejemplo si el piloto trabaja para una compañía que ofrece servicios con UAS"
+  },
+  {
+   "id": "p007-1",
+   "page": 7,
+   "question": "¿Quién tiene la potestad sancionadora si se incumplen las normas de aviación civil en territorio nacional?",
+   "options": [
+    "EASA",
+    "La Comisión Europea",
+    "AESA"
+   ],
+   "answer": 2,
+   "source": "En caso de incumplimiento de las normas de aviación civil en territorio nacional, AESA es quien tiene la potestad sancionadora."
+  },
+  {
+   "id": "p007-2",
+   "page": 7,
+   "question": "¿Cuál es la principal función de EASA?",
+   "options": [
+    "Sancionar los incumplimientos en España",
+    "Gestionar el registro de operadores españoles",
+    "Unificar los estándares comunes en todos los Estados miembros para velar por la seguridad de la aviación civil"
+   ],
+   "answer": 2,
+   "source": "cuya principal función es unificar los estándares comunes en todos los Estados miembros para velar por la seguridad de las operaciones en la aviación civil"
+  },
+  {
+   "id": "p007-3",
+   "page": 7,
+   "question": "¿Qué es AESA?",
+   "options": [
+    "La Agencia de la Unión Europea para la Seguridad Aérea",
+    "Un proveedor de servicios U-space",
+    "El organismo estatal que vela por el cumplimiento de las normas de aviación civil en España"
+   ],
+   "answer": 2,
+   "source": "AESA es el organismo estatal que vela por el cumplimiento de las normas de aviación civil en el conjunto de la actividad aeronáutica en España"
+  },
+  {
+   "id": "p008-1",
+   "page": 8,
+   "question": "¿Con qué norma se reguló por primera vez el uso de RPAS en España?",
+   "options": [
+    "El Reglamento de Ejecución (UE) 2019/947",
+    "El Real Decreto 1036/2017",
+    "La Ley 18/2014"
+   ],
+   "answer": 2,
+   "source": "Hasta el año 2014, el uso de RPAS en España no estaba regulado, y es en ese año cuando se aprueba la Ley 18/2014."
+  },
+  {
+   "id": "p008-2",
+   "page": 8,
+   "question": "¿Qué artículo de la Ley 18/2014 detallaba los requisitos para las operaciones con RPAS?",
+   "options": [
+    "El artículo 41",
+    "El artículo 50",
+    "El artículo 7"
+   ],
+   "answer": 1,
+   "source": "En el artículo 50 de dicha Ley se detallaban los requisitos para las operaciones con RPAS y para los pilotos remotos."
+  },
+  {
+   "id": "p008-3",
+   "page": 8,
+   "question": "¿Qué derogó el Real Decreto 1036/2017?",
+   "options": [
+    "El Reglamento Delegado (UE) 2019/945",
+    "El artículo 50 de la Ley 18/2014",
+    "El Real Decreto 517/2024"
+   ],
+   "answer": 1,
+   "source": "se deroga el artículo 50 de la Ley 18/2014"
+  },
+  {
+   "id": "p008-4",
+   "page": 8,
+   "question": "¿Cuándo entró en vigor el Real Decreto 517/2024?",
+   "options": [
+    "El 31 de diciembre de 2025",
+    "El 25 de junio de 2024",
+    "El 1 de enero de 2024"
+   ],
+   "answer": 1,
+   "source": "El 25 de junio de 2024 entra en vigor el Real Decreto 517/2024"
+  },
+  {
+   "id": "p008-5",
+   "page": 8,
+   "question": "¿Qué norma derogó el Real Decreto 517/2024?",
+   "options": [
+    "El Real Decreto 1036/2017",
+    "El Reglamento de Ejecución (UE) 2019/947",
+    "La Ley 18/2014 completa"
+   ],
+   "answer": 0,
+   "source": "se deroga el Real Decreto 1036/2017"
+  },
+  {
+   "id": "p008-6",
+   "page": 8,
+   "question": "¿Cuándo entraron en vigor los Reglamentos (UE) 2019/947 y 2019/945?",
+   "options": [
+    "En junio de 2019",
+    "En junio de 2024",
+    "A finales de 2017"
+   ],
+   "answer": 0,
+   "source": "En junio de 2019, entran en vigor dos reglamentos desarrollados por EASA para regular los UAS"
+  },
+  {
+   "id": "p009-1",
+   "page": 9,
+   "question": "¿Son vinculantes el Material Guía (GM) y los Medios Aceptables de Cumplimiento (AMC)?",
+   "options": [
+    "Solo en España",
+    "Sí, igual que los Reglamentos",
+    "No; los Reglamentos sí son vinculantes en su totalidad"
+   ],
+   "answer": 2,
+   "source": "Los Reglamentos son vinculantes en su totalidad; por el contrario, el Material Guía (GM) y los Medios Aceptables de Cumplimiento (AMC) no son vinculantes."
+  },
+  {
+   "id": "p009-2",
+   "page": 9,
+   "question": "¿Dónde se pueden encontrar los Reglamentos (UE) sobre UAS?",
+   "options": [
+    "En el visor de ENAIRE drones",
+    "Únicamente en el BOE",
+    "En la web del Diario Oficial de la Unión Europea (DOUE)"
+   ],
+   "answer": 2,
+   "source": "Dichos Reglamentos se pueden encontrar en la web del Diario Oficial de la Unión Europea (DOUE)"
+  },
+  {
+   "id": "p009-3",
+   "page": 9,
+   "question": "Los Reglamentos de la Comisión sobre UAS son de aplicación directa en…",
+   "options": [
+    "Solo en los Estados que los incorporen mediante una ley nacional",
+    "Todos los Estados miembros de EASA (31 Estados de Europa)",
+    "Solo en España"
+   ],
+   "answer": 1,
+   "source": "son de aplicación directa en todos los Estados miembros de EASA (31 Estados de Europa)"
+  },
+  {
+   "id": "p010-1",
+   "page": 10,
+   "question": "¿Qué reglamento establece los requisitos de diseño y fabricación de los UAS?",
+   "options": [
+    "El Real Decreto 517/2024",
+    "El Reglamento Delegado (UE) 2019/945",
+    "El Reglamento de Ejecución (UE) 2019/947"
+   ],
+   "answer": 1,
+   "source": "Establece los requisitos para el diseño y fabricación de UAS destinados a ser utilizados con arreglo a las condiciones definidas en el Reglamento de Ejecución (UE) 2019/947."
+  },
+  {
+   "id": "p010-2",
+   "page": 10,
+   "question": "¿Qué reglamento introdujo las clases de UAS C5 y C6?",
+   "options": [
+    "El Reglamento de Ejecución (UE) 2020/746",
+    "El Reglamento de Ejecución (UE) 2021/1166",
+    "El Reglamento Delegado (UE) 2020/1058"
+   ],
+   "answer": 2,
+   "source": "Este reglamento ha sido modificado por el Reglamento Delegado (UE) 2020/1058 para, entre otras modificaciones, introducir dos nuevas clases de sistemas de aeronaves no tripuladas (Clases C5 y C6)"
+  },
+  {
+   "id": "p010-3",
+   "page": 10,
+   "question": "¿Para qué se utilizarán las clases C5 y C6?",
+   "options": [
+    "Para los escenarios estándar europeos",
+    "Para la subcategoría A1",
+    "Para el aeromodelismo"
+   ],
+   "answer": 0,
+   "source": "serán las clases utilizadas en los escenarios estándar europeos"
+  },
+  {
+   "id": "p011-1",
+   "page": 11,
+   "question": "¿Qué modificación del Reglamento de Ejecución (UE) 2019/947 introdujo los requisitos para operar en categoría «específica» bajo un escenario estándar (STS)?",
+   "options": [
+    "El Reglamento Delegado (UE) 2020/1058",
+    "El Reglamento de Ejecución (UE) 2020/746",
+    "El Reglamento de Ejecución (UE) 2020/639"
+   ],
+   "answer": 2,
+   "source": "El Reglamento de Ejecución (UE) 2020/639, para, entre otros cambios, introducir los requisitos para operaciones en categoría «específica» bajo un escenario estándar (STS)."
+  },
+  {
+   "id": "p011-2",
+   "page": 11,
+   "question": "¿A qué se debió el aplazamiento de fechas del Reglamento de Ejecución (UE) 2020/746?",
+   "options": [
+    "A la entrada en vigor del Real Decreto 517/2024",
+    "A la creación de las clases C5 y C6",
+    "A la pandemia de COVID-19"
+   ],
+   "answer": 2,
+   "source": "en lo que respecta al aplazamiento de las fechas de aplicación de determinadas medidas debido a la pandemia de COVID-19"
+  },
+  {
+   "id": "p011-3",
+   "page": 11,
+   "question": "¿Qué regula el Reglamento de Ejecución (UE) 2019/947?",
+   "options": [
+    "La utilización de los UAS, así como el personal (incluidos los pilotos a distancia) y las organizaciones que participan en las operaciones",
+    "Solo las cuantías de los seguros",
+    "El diseño y la fabricación de los UAS"
+   ],
+   "answer": 0,
+   "source": "Establece disposiciones detalladas sobre la utilización de los sistemas de aeronaves no tripuladas (UAS), así como para el personal, incluidos los pilotos a distancia, y las organizaciones que participan en las operaciones con UAS."
+  },
+  {
+   "id": "p011-4",
+   "page": 11,
+   "question": "Según el Reglamento de Ejecución (UE) 2021/1166, ¿desde qué fecha son obligatorias las luces verdes nocturnas y el sistema de identificación a distancia?",
+   "options": [
+    "25/6/24",
+    "1/7/22",
+    "3/12/23"
+   ],
+   "answer": 1,
+   "source": "el requisito obligatorio de luces verdes nocturnas y el sistema de identificación a distancia (1/7/22)"
+  },
+  {
+   "id": "p012-1",
+   "page": 12,
+   "question": "¿Qué registro crea el Real Decreto 517/2024?",
+   "options": [
+    "El Registro de aeronaves del Ministerio del Interior",
+    "Un registro de aeromodelos en ENAIRE",
+    "Un registro de pilotos en EASA"
+   ],
+   "answer": 0,
+   "source": "Se crea el Registro de aeronaves del Ministerio del Interior, debiendo quedar todos los UAS vinculados en todo momento a sus propietarios."
+  },
+  {
+   "id": "p012-2",
+   "page": 12,
+   "question": "Según el Real Decreto 517/2024, ¿quién es la autoridad notificante?",
+   "options": [
+    "AESA",
+    "ENAIRE",
+    "La CIAIAC"
+   ],
+   "answer": 0,
+   "source": "Se designa a AESA como autoridad notificante"
+  },
+  {
+   "id": "p012-3",
+   "page": 12,
+   "question": "¿Cuál de estos aspectos modifica el Real Decreto 517/2024?",
+   "options": [
+    "Los requisitos de la categoría «certificada»",
+    "Las edades mínimas de los pilotos a distancia",
+    "Las clases de UAS C0 a C4"
+   ],
+   "answer": 1,
+   "source": "Modifica las edades mínimas para los pilotos a distancia."
+  },
+  {
+   "id": "p012-4",
+   "page": 12,
+   "question": "El Real Decreto 517/2024 establece un marco normativo propio aplicable a…",
+   "options": [
+    "Las actividades NO EASA",
+    "Solo los aeromodelos",
+    "Los UAS de clase C4"
+   ],
+   "answer": 0,
+   "source": "Se establece un marco normativo propio aplicable a las actividades NO EASA."
+  },
+  {
+   "id": "p013-1",
+   "page": 13,
+   "question": "¿Qué se entiende por «concentraciones de personas»?",
+   "options": [
+    "Reuniones en las que las personas no pueden evitar el impacto de un UAS en caída libre por la densidad de personas y el espacio en que se encuentran",
+    "Las personas que participan en la operación",
+    "Cualquier grupo de más de cinco personas"
+   ],
+   "answer": 0,
+   "source": "Reuniones en las que las personas no pueden evitar el impacto de un UAS en caída libre debido a la densidad de personas y el espacio en el que se encuentran reunidas."
+  },
+  {
+   "id": "p013-2",
+   "page": 13,
+   "question": "¿Qué es la consciencia situacional?",
+   "options": [
+    "La percepción de uno mismo y su aeronave en relación al ambiente dinámico del vuelo, con capacidad para pronosticar lo que ocurrirá",
+    "La función que detecta violaciones del espacio aéreo",
+    "Un documento con las tareas preparatorias del vuelo"
+   ],
+   "answer": 0,
+   "source": "Es la percepción de uno mismo y su aeronave en relación al ambiente dinámico del vuelo, con capacidad para pronosticar lo que ocurrirá basado en la percepción del entorno"
+  },
+  {
+   "id": "p013-3",
+   "page": 13,
+   "question": "¿Qué es una lista de control («checklist»)?",
+   "options": [
+    "Un documento con un conjunto de tareas preparatorias a realizar normalmente antes de iniciar una operación",
+    "La lista de zonas geográficas UAS",
+    "El registro de vuelos posterior a la operación"
+   ],
+   "answer": 0,
+   "source": "Lista de control consistente en un documento en el que se indican un conjunto de tareas preparatorias a realizar normalmente antes de iniciar una operación."
+  },
+  {
+   "id": "p013-4",
+   "page": 13,
+   "question": "¿Qué son las infraestructuras críticas?",
+   "options": [
+    "Las zonas de despegue y aterrizaje de UAS",
+    "Cualquier edificio de más de 105 m de altura",
+    "Infraestructuras estratégicas que proporcionan servicios esenciales y cuyo funcionamiento es indispensable"
+   ],
+   "answer": 2,
+   "source": "Son las infraestructuras estratégicas que proporcionan servicios esenciales y cuyo funcionamiento es indispensable"
+  },
+  {
+   "id": "p014-1",
+   "page": 14,
+   "question": "¿Qué es una operación VLOS?",
+   "options": [
+    "Aquella en la que el piloto vuela con gafas FPV sin observador",
+    "Aquella que se realiza más allá del alcance visual del piloto",
+    "Aquella en la que el piloto mantiene un contacto visual continuo con la aeronave sin ayuda de instrumentos"
+   ],
+   "answer": 2,
+   "source": "Aquellas operaciones con UAS en las que piloto a distancia puede mantener un contacto visual continuo con la aeronave sin la ayuda de instrumentos"
+  },
+  {
+   "id": "p014-2",
+   "page": 14,
+   "question": "¿Qué es una operación BVLOS?",
+   "options": [
+    "La que no se realiza dentro del alcance visual del piloto a distancia",
+    "La que se realiza siempre de noche",
+    "La que se realiza con un observador del espacio aéreo"
+   ],
+   "answer": 0,
+   "source": "Aquellas operaciones con UAS que no se realizan dentro del alcance visual del piloto a distancia."
+  },
+  {
+   "id": "p014-3",
+   "page": 14,
+   "question": "¿Qué hace el observador de la aeronave no tripulada?",
+   "options": [
+    "Situado al lado del piloto, le ayuda mediante observación visual sin instrumentos a mantener la aeronave en modo VLOS",
+    "Pilota el UAS cuando el piloto lo pierde de vista",
+    "Sigue el vuelo desde otra ubicación con prismáticos para ampliar el alcance"
+   ],
+   "answer": 0,
+   "source": "Persona situada al lado del piloto a distancia que, mediante la observación visual de la aeronave no tripulada sin la ayuda de instrumentos, ayuda al piloto a distancia a mantener dicha aeronave en modo VLOS"
+  },
+  {
+   "id": "p014-4",
+   "page": 14,
+   "question": "¿Qué se considera mercancía peligrosa?",
+   "options": [
+    "Cualquier artículo o sustancia transportada que pueda suponer un peligro para la salud, la seguridad, los bienes o el medio ambiente en caso de incidente o accidente",
+    "Solo los explosivos",
+    "Únicamente las baterías de litio de repuesto"
+   ],
+   "answer": 0,
+   "source": "Cualquier artículo o sustancia que la aeronave transporte y que pueda suponer un peligro para la salud, la seguridad, los bienes o el medio ambiente en caso de incidente o accidente."
+  },
+  {
+   "id": "p014-5",
+   "page": 14,
+   "question": "¿Qué hace el observador del espacio aéreo?",
+   "options": [
+    "Asiste al piloto observando visualmente, sin instrumentos, el espacio aéreo para detectar posibles peligros en el aire",
+    "Vigila la aeronave con un radar",
+    "Es el controlador de tránsito aéreo de la zona"
+   ],
+   "answer": 0,
+   "source": "Persona que asiste al piloto a distancia mediante una observación visual, sin la ayuda de instrumentos, del espacio aéreo en el que se está utilizando la aeronave no tripulada para detectar posibles peligros en el aire."
+  },
+  {
+   "id": "p015-1",
+   "page": 15,
+   "question": "¿Quién es una persona no participante?",
+   "options": [
+    "Quien no participa en la operación del UAS o no está al corriente de las instrucciones y precauciones de seguridad dadas por el operador",
+    "Cualquier persona que no sea el piloto",
+    "El observador del espacio aéreo"
+   ],
+   "answer": 0,
+   "source": "Persona que no participa en la operación del UAS o que no está al corriente de las instrucciones y las precauciones de seguridad dadas por el operador."
+  },
+  {
+   "id": "p015-2",
+   "page": 15,
+   "question": "¿Cuál de estas superficies se considera «entorno urbano»?",
+   "options": [
+    "Núcleos de población con áreas consolidadas por la edificación",
+    "Una zona de montaña sin construcciones",
+    "Un campo de cultivo alejado"
+   ],
+   "answer": 0,
+   "source": "Núcleos de población con áreas consolidadas por la edificación"
+  },
+  {
+   "id": "p015-3",
+   "page": 15,
+   "question": "¿Qué es el rendimiento («performance») de un UAS?",
+   "options": [
+    "La velocidad máxima del UAS",
+    "El conjunto de capacidades del UAS de acuerdo con el objetivo principal para el que ha sido diseñado",
+    "La duración máxima de la batería"
+   ],
+   "answer": 1,
+   "source": "Conjunto de capacidades ofrecidas por el UAS de acuerdo con el objetivo principal para el que ha sido diseñado."
+  },
+  {
+   "id": "p016-1",
+   "page": 16,
+   "question": "¿Qué es el modo sígueme?",
+   "options": [
+    "Un modo en el que la aeronave sigue a otra aeronave",
+    "Un modo en el que la aeronave sigue constantemente al piloto a distancia dentro de un radio predeterminado",
+    "Un modo en el que la aeronave vuelve al punto de despegue"
+   ],
+   "answer": 1,
+   "source": "Modo de funcionamiento de un UAS en el que la aeronave no tripulada sigue constantemente al piloto a distancia dentro de un radio predeterminado."
+  },
+  {
+   "id": "p016-2",
+   "page": 16,
+   "question": "¿Qué hace el sistema de geoconsciencia?",
+   "options": [
+    "Transmite el número de registro del operador",
+    "Estabiliza la cámara del UAS",
+    "Detecta una posible violación de las limitaciones del espacio aéreo y alerta al piloto para que tome medidas"
+   ],
+   "answer": 2,
+   "source": "detecta una posible violación de las limitaciones del espacio aéreo y alerta a los pilotos a distancia para que puedan tomar medidas inmediatas y eficaces para evitar esa violación"
+  },
+  {
+   "id": "p016-3",
+   "page": 16,
+   "question": "¿Qué es una zona geográfica de UAS?",
+   "options": [
+    "El área que el piloto define con geocaging",
+    "Cualquier zona urbana",
+    "Parte del espacio aéreo establecida por la autoridad competente que facilita, restringe o excluye operaciones de UAS"
+   ],
+   "answer": 2,
+   "source": "Parte del espacio aéreo establecida por la autoridad competente que facilita, restringe o excluye operaciones de UAS"
+  },
+  {
+   "id": "p016-4",
+   "page": 16,
+   "question": "¿Qué garantiza el sistema de identificación a distancia directa (DRI)?",
+   "options": [
+    "La emisión local de información sobre las aeronaves no tripuladas en funcionamiento",
+    "El aterrizaje automático cuando se agota la batería",
+    "La comunicación por voz con el controlador aéreo"
+   ],
+   "answer": 0,
+   "source": "Sistema que garantiza la emisión local de información sobre las aeronaves no tripuladas en funcionamiento"
+  },
+  {
+   "id": "p016-5",
+   "page": 16,
+   "question": "¿Qué dos tipos de zonas geográficas UAS se distinguen?",
+   "options": [
+    "Generales y particulares",
+    "Civiles y deportivas",
+    "Urbanas y rurales"
+   ],
+   "answer": 0,
+   "source": "Distinguimos entre zonas geográficas UAS generales y particulares."
+  },
+  {
+   "id": "p017-1",
+   "page": 17,
+   "question": "¿Cuántas categorías de operación define el Reglamento de Ejecución (UE) 2019/947?",
+   "options": [
+    "Tres: «abierta», «específica» y «certificada»",
+    "Cuatro: A1, A2, A3 y STS",
+    "Dos: «abierta» y «específica»"
+   ],
+   "answer": 0,
+   "source": "El Reglamento de Ejecución (UE) 2019/947 define tres categorías de operación con UAS: «abierta», «específica» y «certificada»."
+  },
+  {
+   "id": "p018-1",
+   "page": 18,
+   "question": "¿Qué se requiere para operar en categoría «abierta»?",
+   "options": [
+    "Una autorización de AESA para cada vuelo",
+    "Una declaración operacional",
+    "Ninguna autorización previa ni declaración operacional del operador"
+   ],
+   "answer": 2,
+   "source": "Las operaciones en categoría «abierta» no estarán sujetas a ninguna autorización previa ni a una declaración operacional del operador de UAS."
+  },
+  {
+   "id": "p018-2",
+   "page": 18,
+   "question": "¿En qué subcategorías se divide la categoría «abierta»?",
+   "options": [
+    "STS-01 y STS-02",
+    "C0, C1 y C2",
+    "A1, A2 y A3"
+   ],
+   "answer": 2,
+   "source": "se dividen en tres subcategorías A1, A2 y A3"
+  },
+  {
+   "id": "p018-3",
+   "page": 18,
+   "question": "En categoría «abierta», ¿cuándo puede el piloto usar dispositivos de visión en primera persona (FPV)?",
+   "options": [
+    "Cuando vuele en modo sígueme o si utiliza un observador de la aeronave no tripulada",
+    "Siempre que quiera",
+    "Nunca"
+   ],
+   "answer": 0,
+   "source": "salvo cuando vuele en modo sígueme o si utiliza un observador de la aeronave no tripulada, en cuyo caso podrá usar dispositivos de visión en primera persona"
+  },
+  {
+   "id": "p019-1",
+   "page": 19,
+   "question": "En categoría «abierta», ¿cuál es como norma general la altura máxima de vuelo?",
+   "options": [
+    "120 m del punto más próximo de la superficie",
+    "400 m sobre el punto de despegue",
+    "150 m sobre el nivel del mar"
+   ],
+   "answer": 0,
+   "source": "No se permite el vuelo a una altura superior a 120 m del punto mas próximo de la superficie."
+  },
+  {
+   "id": "p019-2",
+   "page": 19,
+   "question": "Si se vuela a menos de 50 m (en horizontal) de un obstáculo artificial de más de 105 m, la altura máxima…",
+   "options": [
+    "Puede incrementarse hasta 15 m por encima del obstáculo, a petición de la entidad responsable del obstáculo",
+    "No puede incrementarse nunca",
+    "Puede incrementarse hasta 50 m por encima del obstáculo sin petición previa"
+   ],
+   "answer": 0,
+   "source": "la altura máxima de la operación de UAS podrá incrementarse en hasta 15 m por encima de la altura del obstáculo a petición de la entidad responsable del obstáculo"
+  },
+  {
+   "id": "p019-3",
+   "page": 19,
+   "question": "¿Cuál es el límite inferior de la aviación general que indica el temario?",
+   "options": [
+    "120 m",
+    "300 m",
+    "150 m"
+   ],
+   "answer": 2,
+   "source": "el límite inferior de la aviación general es de 150 m"
+  },
+  {
+   "id": "p019-4",
+   "page": 19,
+   "question": "¿Cuándo puede ser la altura máxima de vuelo menor de 120 m?",
+   "options": [
+    "Cuando así lo indica la zona geográfica de UAS definida por la autoridad",
+    "Cuando el UAS es de clase C0",
+    "Cuando el piloto es menor de edad"
+   ],
+   "answer": 0,
+   "source": "Esta altura máxima puede ser menor de 120 m si en la zona de vuelo así lo indica la zona geográfica de UAS definida por la autoridad (AESA)."
+  },
+  {
+   "id": "p020-1",
+   "page": 20,
+   "question": "En caso de conflicto o encuentro con una aeronave tripulada, el piloto a distancia debe…",
+   "options": [
+    "Aumentar la altura para alejarse",
+    "Reducir la altura de vuelo, hacer maniobras evasivas si hay posible colisión y aterrizar lo antes posible",
+    "Mantener la posición en vuelo estacionario"
+   ],
+   "answer": 1,
+   "source": "el piloto a distancia debe reducir la altura de vuelo, realizar maniobras evasivas en caso de posible colisión con la aeronave tripulada y aterrizar lo antes posible"
+  },
+  {
+   "id": "p021-1",
+   "page": 21,
+   "question": "En categoría «abierta», ¿se permite sobrevolar concentraciones de personas?",
+   "options": [
+    "Sí, con UAS de clase C0",
+    "No",
+    "Sí, en la subcategoría A1"
+   ],
+   "answer": 1,
+   "source": "No se permite el sobrevuelo de concentraciones de personas"
+  },
+  {
+   "id": "p021-2",
+   "page": 21,
+   "question": "Como norma general, ¿cómo influye la masa del UAS en la distancia a personas no participantes?",
+   "options": [
+    "Cuanto más pesada es la aeronave, más lejos debe volar de las personas no participantes",
+    "Cuanto más pesada, más cerca puede volar",
+    "La masa no influye"
+   ],
+   "answer": 0,
+   "source": "cuanto más pesada es la aeronave no tripulada, más lejos se deberá volar de personas no participantes"
+  },
+  {
+   "id": "p022-1",
+   "page": 22,
+   "question": "¿Puede el observador ampliar el rango de vuelo del UAS más allá del alcance visual del piloto?",
+   "options": [
+    "Sí, en la subcategoría A3",
+    "No, en ningún caso es ese su objetivo",
+    "Sí, siempre que mantenga contacto por radio con el piloto"
+   ],
+   "answer": 1,
+   "source": "En ningún caso el objetivo del observador es ampliar el rango de vuelo del UAS mas allá del alcance visual del piloto a distancia."
+  },
+  {
+   "id": "p022-2",
+   "page": 22,
+   "question": "¿Quién es siempre el último responsable de mantener la seguridad de la operación del UAS?",
+   "options": [
+    "El piloto a distancia",
+    "El fabricante del UAS",
+    "El observador"
+   ],
+   "answer": 0,
+   "source": "el piloto a distancia siempre es el último responsable de mantener la seguridad de la operación del UAS"
+  },
+  {
+   "id": "p023-1",
+   "page": 23,
+   "question": "En categoría «abierta», respecto a las mercancías peligrosas y la caída de objetos…",
+   "options": [
+    "Está prohibido transportar mercancías peligrosas y dejar caer o proyectar cualquier material u objeto",
+    "Solo se permite dejar caer objetos de menos de 250 g",
+    "Se permiten con UAS de clase C3"
+   ],
+   "answer": 0,
+   "source": "Está prohibido el transporte de mercancías peligrosas con el UAS ni dejar caer o proyectar ningún material u objeto."
+  },
+  {
+   "id": "p024-1",
+   "page": 24,
+   "question": "¿Qué UAS se consideran drones «legacy»?",
+   "options": [
+    "Los introducidos en el mercado antes del 1 de enero de 2024 que no sean de construcción privada ni tengan marcado de clase",
+    "Los UAS con marcado de clase C0",
+    "Todos los UAS de construcción privada"
+   ],
+   "answer": 0,
+   "source": "Aquellos UAS que hayan sido introducidos en el mercado antes del 1 enero de 2024 y no sean de construcción privada ni dispongan de marcado de clase serán considerados como drones “legacy”."
+  },
+  {
+   "id": "p025-1",
+   "page": 25,
+   "question": "En la subcategoría A1, ¿con qué clase de UAS no se puede sobrevolar a personas no participantes?",
+   "options": [
+    "C1",
+    "UAS «legacy» de menos de 250 g",
+    "C0"
+   ],
+   "answer": 0,
+   "source": "excepto para operaciones con UAS de clase C1 con las cuales no se podrá sobrevolar personas no participantes"
+  },
+  {
+   "id": "p025-2",
+   "page": 25,
+   "question": "Para operar con un UAS de clase C1 en la subcategoría A1, el piloto debe…",
+   "options": [
+    "No necesita ninguna formación",
+    "Obtener el certificado de competencia A2",
+    "Completar el curso de formación en línea A1/A3 y superar el examen en línea posterior"
+   ],
+   "answer": 2,
+   "source": "Completar el curso de formación online A1/A3 y superar el posterior examen online para obtener la “Prueba de superación de formación en línea”, para operar con UAS de clase C1."
+  },
+  {
+   "id": "p025-3",
+   "page": 25,
+   "question": "Para volar un UAS de clase C0 en la subcategoría A1, el curso y examen en línea A1/A3…",
+   "options": [
+    "Es obligatorio",
+    "Es recomendable",
+    "No está permitido"
+   ],
+   "answer": 1,
+   "source": "Será recomendable realizar el curso de formación online A1/A3 y superar el posterior examen online"
+  },
+  {
+   "id": "p026-1",
+   "page": 26,
+   "question": "¿Qué UAS de construcción privada pueden volar en la subcategoría A1?",
+   "options": [
+    "Los de MTOM menor de 900 g",
+    "Los de MTOM menor de 250 g y velocidad máxima inferior a 19 m/s",
+    "Los de MTOM menor de 4 kg con función de baja velocidad"
+   ],
+   "answer": 1,
+   "source": "Ser de construcción privada, con una masa máxima de despegue (MTOM) menor de 250 g y velocidad máxima inferior a 19 m/s"
+  },
+  {
+   "id": "p028-1",
+   "page": 28,
+   "question": "¿Cuál es la MTOM máxima de un UAS de clase C1 (salvo que su energía de impacto sea inferior a 80 J)?",
+   "options": [
+    "Menos de 900 g",
+    "Menos de 250 g",
+    "Menos de 4 kg"
+   ],
+   "answer": 0,
+   "source": "< 900 g"
+  },
+  {
+   "id": "p029-1",
+   "page": 29,
+   "question": "En la subcategoría A2, ¿a qué distancia horizontal segura mínima de personas no participantes se puede volar?",
+   "options": [
+    "Al menos 150 m",
+    "Al menos 30 m, reducible hasta 5 m con la función de baja velocidad activada",
+    "5 m en cualquier caso"
+   ],
+   "answer": 1,
+   "source": "Se permite el vuelo a una distancia horizontal segura de al menos 30 m de personas no participantes, que podrá reducirse hasta un mínimo de 5 m cuando se active la función de modo de baja velocidad"
+  },
+  {
+   "id": "p029-2",
+   "page": 29,
+   "question": "En la subcategoría A2, al reducir la distancia horizontal a personas no participantes, la altura…",
+   "options": [
+    "No varía",
+    "Puede aumentarse",
+    "Se reduce en la misma proporción (regla 1:1)"
+   ],
+   "answer": 2,
+   "source": "la altura se reducirá en la misma proporción que se reduce la distancia horizontal segura a las personas no participantes (regla 1:1)"
+  },
+  {
+   "id": "p030-1",
+   "page": 30,
+   "question": "Para volar en la subcategoría A2, además de la formación en línea A1/A3 y la autoformación práctica, el piloto debe…",
+   "options": [
+    "Tener 18 años y licencia de piloto privado",
+    "Superar un examen teórico adicional para obtener el «Certificado de competencia de piloto a distancia»",
+    "Solo registrarse como operador"
+   ],
+   "answer": 1,
+   "source": "Superar un examen de conocimientos teóricos adicional para obtener el “Certificado de competencia de piloto a distancia” para la subcategoría A2."
+  },
+  {
+   "id": "p030-2",
+   "page": 30,
+   "question": "La autoformación práctica para la subcategoría A2 debe realizarse en una zona aislada alejada…",
+   "options": [
+    "30 m de personas no participantes",
+    "50 m de cualquier obstáculo",
+    "150 m de zonas residenciales, comerciales, industriales o recreativas"
+   ],
+   "answer": 2,
+   "source": "alejado 150 m de zonas residenciales, comerciales, industriales o recreativas"
+  },
+  {
+   "id": "p031-1",
+   "page": 31,
+   "question": "¿Con qué clase de UAS se vuela en la subcategoría A2?",
+   "options": [
+    "C2",
+    "C4",
+    "C0"
+   ],
+   "answer": 0,
+   "source": "Los vuelos en la subcategoría A2 de la categoría «abierta» se podrán realizar con los UAS que tengan etiqueta de identificación de clase C2"
+  },
+  {
+   "id": "p031-2",
+   "page": 31,
+   "question": "¿Cuál es el límite de velocidad de la función de baja velocidad de un UAS de clase C2?",
+   "options": [
+    "3 m/s",
+    "19 m/s",
+    "5 m/s"
+   ],
+   "answer": 0,
+   "source": "Función baja velocidad (límite v < 3 m/s)"
+  },
+  {
+   "id": "p031-3",
+   "page": 31,
+   "question": "¿Cuál es la MTOM máxima de un UAS de clase C2?",
+   "options": [
+    "Menos de 900 g",
+    "Menos de 4 kg",
+    "Menos de 25 kg"
+   ],
+   "answer": 1,
+   "source": "< 4 kg"
+  },
+  {
+   "id": "p032-1",
+   "page": 32,
+   "question": "En la subcategoría A3, ¿a qué distancia horizontal mínima se debe volar de zonas residenciales, comerciales, industriales y recreativas?",
+   "options": [
+    "150 m",
+    "50 m",
+    "30 m"
+   ],
+   "answer": 0,
+   "source": "Volar a una distancia horizontal segura mínima de 150 m de zonas residenciales, comerciales, industriales y recreativas."
+  },
+  {
+   "id": "p032-2",
+   "page": 32,
+   "question": "En la subcategoría A3 se debe volar en zonas donde…",
+   "options": [
+    "Haya personas no participantes a más de 5 m",
+    "Se prevea que no se pondrá en peligro a ninguna persona no participante",
+    "Esté permitido sobrevolar concentraciones de personas"
+   ],
+   "answer": 1,
+   "source": "Volar en zonas donde se prevea que no se pondrá en peligro a ninguna persona no participante"
+  },
+  {
+   "id": "p032-3",
+   "page": 32,
+   "question": "¿Qué formación se exige a los pilotos para la subcategoría A3?",
+   "options": [
+    "La misma que para la subcategoría A2",
+    "La misma que para la subcategoría A1",
+    "Una licencia de piloto"
+   ],
+   "answer": 1,
+   "source": "deben cumplir los mismos requisitos que para la subcategoría A1"
+  },
+  {
+   "id": "p033-1",
+   "page": 33,
+   "question": "¿Cuál es la dimensión máxima de un UAS de clase C3?",
+   "options": [
+    "Menos de 5 m",
+    "Menos de 1 m",
+    "Menos de 3 m"
+   ],
+   "answer": 2,
+   "source": "Máxima dimensión < 3 m"
+  },
+  {
+   "id": "p033-2",
+   "page": 33,
+   "question": "¿En qué subcategoría se vuela con un UAS de clase C3?",
+   "options": [
+    "A1",
+    "A2",
+    "A3"
+   ],
+   "answer": 2,
+   "source": "Los vuelos en la subcategoría A3 de la categoría «abierta» se podrán realizar con los UAS que cumplan: Tener etiqueta de identificación de clase C3"
+  },
+  {
+   "id": "p034-1",
+   "page": 34,
+   "question": "¿Qué característica tiene un UAS de clase C4?",
+   "options": [
+    "Tiene una MTOM inferior a 900 g",
+    "Debe tener función de baja velocidad",
+    "No dispone de modo automático de vuelo, salvo asistencia a la estabilización y en caso de pérdida de conexión"
+   ],
+   "answer": 2,
+   "source": "No dispone de modo automático de vuelo, excepto asistencia a la estabilización y en caso de pérdida de conexión"
+  },
+  {
+   "id": "p035-1",
+   "page": 35,
+   "question": "¿Qué MTOM máxima puede tener un UAS de construcción privada para volar en la subcategoría A3?",
+   "options": [
+    "Menos de 25 kg",
+    "Menos de 4 kg",
+    "Menos de 250 g"
+   ],
+   "answer": 0,
+   "source": "Ser de construcción privada, con una masa máxima de despegue (MTOM) menor de 25 kg"
+  },
+  {
+   "id": "p035-2",
+   "page": 35,
+   "question": "¿Puede usarse un UAS de clase C2 en la subcategoría A3?",
+   "options": [
+    "Sí",
+    "Solo con autorización de AESA",
+    "No, solo en A2"
+   ],
+   "answer": 0,
+   "source": "Tener etiqueta de identificación de clase C2, que cumpla todos los requisitos que se han definido anteriormente en las aeronaves de la subcategoría A2"
+  },
+  {
+   "id": "p036-1",
+   "page": 36,
+   "question": "¿Qué UAS deben cumplir los requisitos de ruido?",
+   "options": [
+    "Todos los de marcado de clase C0 a C4 que no sean de ala fija",
+    "Solo los de clase C4",
+    "Solo los de construcción privada"
+   ],
+   "answer": 0,
+   "source": "Todos los UAS con marcados de clase desde C0 hasta C4 que no sean de ala fija deben de cumplir los requisitos de ruido."
+  },
+  {
+   "id": "p037-1",
+   "page": 37,
+   "question": "Desde el 1 de enero de 2024, ¿qué UAS deben disponer de identificación a distancia directa?",
+   "options": [
+    "Los de clase C1, C2 y C3 en categoría «abierta» y todos los usados en categoría «específica»",
+    "Solo los de construcción privada",
+    "Solo los de clase C0"
+   ],
+   "answer": 0,
+   "source": "Desde el 1 de enero de 2024, todos los UAS con marcado de clase C1, C2 y C3 empleados para operaciones en categoría «abierta», así como todos los UAS utilizados para realizar operaciones en categoría «específica», deberán disponer de un sistema de identificación a distancia directa"
+  },
+  {
+   "id": "p038-1",
+   "page": 38,
+   "question": "¿Cuál de estos datos transmite como mínimo el sistema de identificación a distancia directa?",
+   "options": [
+    "El nivel de batería del UAS",
+    "El nombre y apellidos del piloto",
+    "La posición geográfica del piloto a distancia"
+   ],
+   "answer": 2,
+   "source": "Posición geográfica del piloto a distancia"
+  },
+  {
+   "id": "p038-2",
+   "page": 38,
+   "question": "¿Qué clases deben llevar de serie el sistema de identificación a distancia directa?",
+   "options": [
+    "Solo C5 y C6",
+    "C0 y C4",
+    "C1, C2, C3, C5 y C6"
+   ],
+   "answer": 2,
+   "source": "Todos los UAS con marcado de clase C1, C2, C3, C5 y C6 deberán llevar equipado de serie el sistema de identificación a distancia directa."
+  },
+  {
+   "id": "p038-3",
+   "page": 38,
+   "question": "Para operar en categoría «específica» con un UAS sin marcado de clase…",
+   "options": [
+    "Hay que pedir al fabricante un marcado de clase",
+    "No se necesita DRI",
+    "El operador debe equiparlo con el sistema DRI"
+   ],
+   "answer": 2,
+   "source": "para realizar operaciones en categoría «específica» con UAS sin marcado de clase, el operador deberá equipar con el sistema DRI a estas aeronaves"
+  },
+  {
+   "id": "p039-1",
+   "page": 39,
+   "question": "¿Cuándo se encuadra una operación en la categoría «específica»?",
+   "options": [
+    "Cuando no se cumplen los requisitos de la categoría «abierta» ni de la «certificada»",
+    "Cuando se transportan personas",
+    "Cuando el UAS pesa menos de 250 g"
+   ],
+   "answer": 0,
+   "source": "Cuando no se cumplan los requisitos de categoría «abierta» ni «certificada», estaríamos dentro de categoría «específica»."
+  },
+  {
+   "id": "p039-2",
+   "page": 39,
+   "question": "Si una operación en categoría «específica» se ajusta a un escenario estándar…",
+   "options": [
+    "Se presenta una declaración responsable a través del perfil de operador en la web de AESA",
+    "Se necesita siempre una autorización operacional",
+    "Se debe certificar el UAS"
+   ],
+   "answer": 0,
+   "source": "Si la operación se ajusta a un escenario estándar, se presentará una declaración responsable a través del perfil de operador de UAS en la web de AESA."
+  },
+  {
+   "id": "p039-3",
+   "page": 39,
+   "question": "¿Qué debe incluir la solicitud de autorización operacional en categoría «específica»?",
+   "options": [
+    "Una evaluación del riesgo con medidas de atenuación",
+    "El certificado A2 del piloto",
+    "Un certificado de aeronavegabilidad del UAS"
+   ],
+   "answer": 0,
+   "source": "incluyendo una evaluación del riesgo con medidas de atenuación"
+  },
+  {
+   "id": "p040-1",
+   "page": 40,
+   "question": "¿Qué es el LUC?",
+   "options": [
+    "Una licencia única de control aéreo",
+    "Un límite de uso en categoría «abierta»",
+    "El Certificado de operador UAS Ligero"
+   ],
+   "answer": 2,
+   "source": "LUC Certificado de operador UAS Ligero"
+  },
+  {
+   "id": "p041-1",
+   "page": 41,
+   "question": "Para operar conforme a un escenario estándar (STS), además de la formación en línea A1/A3, el piloto debe…",
+   "options": [
+    "Tener licencia de piloto comercial",
+    "Superar un examen teórico adicional y una formación de aptitudes prácticas concreta para cada STS",
+    "No necesita nada más"
+   ],
+   "answer": 1,
+   "source": "Superar un examen adicional de conocimientos teóricos; Superar una formación de aptitudes prácticas concreta para cada STS."
+  },
+  {
+   "id": "p042-1",
+   "page": 42,
+   "question": "¿Qué escenarios estándar nacionales se han publicado en España?",
+   "options": [
+    "A1 y A3",
+    "STS-01 y STS-02",
+    "STS-ES-01 y STS-ES-02"
+   ],
+   "answer": 2,
+   "source": "En el caso de España se han publicado dos escenarios estándar nacionales STS-ES-01 y STS-ES-02."
+  },
+  {
+   "id": "p042-2",
+   "page": 42,
+   "question": "¿Hasta cuándo tienen validez los escenarios estándar nacionales?",
+   "options": [
+    "Hasta el 30 de agosto de 2024",
+    "Hasta el 31 de diciembre de 2025",
+    "No tienen fecha de fin"
+   ],
+   "answer": 1,
+   "source": "tendrán validez hasta el 31 de diciembre del 2025"
+  },
+  {
+   "id": "p042-3",
+   "page": 42,
+   "question": "¿Hasta cuándo pudieron presentar los operadores los escenarios estándar nacionales?",
+   "options": [
+    "Hasta el 31 de diciembre de 2025",
+    "Hasta el 30 de agosto de 2024",
+    "Hasta el 1 de enero de 2024"
+   ],
+   "answer": 1,
+   "source": "podrán ser presentados por los operadores hasta el 30 de agosto de 2024"
+  },
+  {
+   "id": "p043-1",
+   "page": 43,
+   "question": "¿Cuál de estas operaciones pertenece a la categoría «certificada»?",
+   "options": [
+    "Volar un UAS C0 sobre personas no participantes",
+    "Volar en A3 a 150 m de zonas residenciales",
+    "El transporte de personas"
+   ],
+   "answer": 2,
+   "source": "Realizar transporte de personas."
+  },
+  {
+   "id": "p043-2",
+   "page": 43,
+   "question": "Volar sobre concentraciones de personas con un UAS de dimensión mayor de 3 m es una operación de categoría…",
+   "options": [
+    "«Específica» bajo escenario estándar",
+    "«Abierta», subcategoría A1",
+    "«Certificada»"
+   ],
+   "answer": 2,
+   "source": "Volar sobre concentraciones de personas con UAS de dimensión mayor a 3 m."
+  },
+  {
+   "id": "p044-1",
+   "page": 44,
+   "question": "¿Cuál es la edad mínima para darse de alta como operador de UAS en España?",
+   "options": [
+    "14 años",
+    "16 años",
+    "18 años"
+   ],
+   "answer": 1,
+   "source": "La edad mínima exigible a los operadores de UAS que quieran darse de alta en el registro para volar en España es de 16 años."
+  },
+  {
+   "id": "p044-2",
+   "page": 44,
+   "question": "Según el Reglamento de Ejecución, ¿en qué caso no se exige una edad mínima al piloto?",
+   "options": [
+    "Vuelo en categoría «específica»",
+    "Vuelo en A1 con un UAS de clase C0 que sea un juguete",
+    "Vuelo en A2 con un UAS de clase C2"
+   ],
+   "answer": 1,
+   "source": "Vuelo en subcategoría A1 con UAS de clase C0 que sea un juguete"
+  },
+  {
+   "id": "p044-3",
+   "page": 44,
+   "question": "¿Cuánto pueden reducir como máximo los Estados miembros la edad mínima para la categoría «abierta»?",
+   "options": [
+    "4 años",
+    "2 años",
+    "6 años"
+   ],
+   "answer": 0,
+   "source": "4 años para categoría «abierta»"
+  },
+  {
+   "id": "p044-4",
+   "page": 44,
+   "question": "¿Cuánto pueden reducir como máximo los Estados miembros la edad mínima para la categoría «específica»?",
+   "options": [
+    "No pueden reducirla",
+    "4 años",
+    "2 años"
+   ],
+   "answer": 2,
+   "source": "2 años para categoría «específica»"
+  },
+  {
+   "id": "p045-1",
+   "page": 45,
+   "question": "Según el Real Decreto 517/2024, ¿a qué edad mínima se puede pilotar en A1 un UAS de clase C0 que no sea un juguete?",
+   "options": [
+    "12 años",
+    "16 años",
+    "14 años"
+   ],
+   "answer": 0,
+   "source": "A 12 años para la utilización de UAS en la subcategoría A1 cuando operen: Un UAS un UAS de clase C0 que no sea un juguete"
+  },
+  {
+   "id": "p045-2",
+   "page": 45,
+   "question": "Según el Real Decreto 517/2024, ¿qué edad mínima se exige para operar en A1 con un UAS de clase C1?",
+   "options": [
+    "12 años",
+    "14 años",
+    "No hay edad mínima"
+   ],
+   "answer": 1,
+   "source": "A 14 años en cualquiera de los siguientes supuestos: Cuando operen en subcategoría A1 con un UAS de clase C1"
+  },
+  {
+   "id": "p045-3",
+   "page": 45,
+   "question": "¿Qué edad mínima se exige para ser operador o piloto en actividades no EASA de un organismo investido de autoridad pública?",
+   "options": [
+    "18 años",
+    "16 años",
+    "14 años"
+   ],
+   "answer": 1,
+   "source": "la edad mínima para actuar como operador de UAS o piloto a distancia en actividades o servicios no EASA será de 16 años"
+  },
+  {
+   "id": "p047-1",
+   "page": 47,
+   "question": "¿Debe registrarse como operador quien vuela en categoría «abierta» un UAS de menos de 250 g con cámara?",
+   "options": [
+    "Solo si vuela en zona urbana",
+    "Sí, porque está equipado con un sensor capaz de captar datos personales",
+    "No, por debajo de 250 g nunca"
+   ],
+   "answer": 1,
+   "source": "Esté equipado con un sensor capaz de captar datos personales (cámaras, micrófonos)"
+  },
+  {
+   "id": "p047-2",
+   "page": 47,
+   "question": "¿Debe registrarse un operador que vuela en categoría «específica»?",
+   "options": [
+    "No",
+    "Solo si el UAS supera 25 kg",
+    "Sí, independientemente del UAS"
+   ],
+   "answer": 2,
+   "source": "Operen en categoría «específica», independientemente del UAS"
+  },
+  {
+   "id": "p047-3",
+   "page": 47,
+   "question": "¿Cómo se realiza el registro como operador de UAS?",
+   "options": [
+    "A través de ENAIRE",
+    "A través de la web de AESA",
+    "En la Dirección General de Tráfico"
+   ],
+   "answer": 1,
+   "source": "A través de la web de AESA"
+  },
+  {
+   "id": "p048-1",
+   "page": 48,
+   "question": "¿En cuántos Estados miembros de EASA puede estar registrado un operador?",
+   "options": [
+    "En todos aquellos en los que vaya a volar",
+    "En un máximo de tres",
+    "Solo en uno"
+   ],
+   "answer": 2,
+   "source": "Solo puede estar registrado en un Estado miembro de EASA"
+  },
+  {
+   "id": "p048-2",
+   "page": 48,
+   "question": "Una persona física debe registrarse como operador en…",
+   "options": [
+    "El Estado donde compró el UAS",
+    "El Estado miembro donde reside",
+    "Cualquier Estado de EASA"
+   ],
+   "answer": 1,
+   "source": "En el Estado miembro donde reside, si es persona física"
+  },
+  {
+   "id": "p048-3",
+   "page": 48,
+   "question": "Una persona jurídica debe registrarse como operador en…",
+   "options": [
+    "El Estado miembro donde tenga su centro de actividad principal",
+    "El Estado donde residan sus pilotos",
+    "Obligatoriamente en España"
+   ],
+   "answer": 0,
+   "source": "En el Estado miembro donde tenga su centro de actividad principal, si es persona jurídica"
+  },
+  {
+   "id": "p048-4",
+   "page": 48,
+   "question": "¿Qué hay que hacer con el número de registro de operador?",
+   "options": [
+    "Indicarlo solo en los UAS de más de 25 kg",
+    "Publicarlo en la web del operador",
+    "Indicarlo en todos los UAS propiedad del operador y mantenerlo en privado"
+   ],
+   "answer": 2,
+   "source": "Dicho número debe estar indicado en todos los UAS propiedad del operador y mantenerse en privado."
+  },
+  {
+   "id": "p049-1",
+   "page": 49,
+   "question": "¿Cuál es una responsabilidad del operador de UAS en categoría «abierta»?",
+   "options": [
+    "Solicitar autorización a AESA para cada vuelo",
+    "Designar a un piloto para cada operación y garantizar que tiene la formación adecuada",
+    "Pilotar personalmente todas las operaciones"
+   ],
+   "answer": 1,
+   "source": "Designar a un piloto para cada operación siendo el control intransferible y garantizar que el piloto tiene la formación adecuada"
+  },
+  {
+   "id": "p049-2",
+   "page": 49,
+   "question": "¿Quién debe actualizar el sistema de geoconsciencia del UAS cuando sea aplicable?",
+   "options": [
+    "El fabricante",
+    "AESA",
+    "El operador"
+   ],
+   "answer": 2,
+   "source": "Actualizar el sistema de geoconsciencia del UAS cuando sea aplicable en función del lugar de operación"
+  },
+  {
+   "id": "p049-3",
+   "page": 49,
+   "question": "En A2 y A3, si hay personas participantes en la operación, el operador debe…",
+   "options": [
+    "Asegurar que han sido informadas de los riesgos y han aceptado participar de forma explícita",
+    "Registrar sus datos en AESA",
+    "Darles un certificado de piloto"
+   ],
+   "answer": 0,
+   "source": "asegurar que estas personas hayan sido informadas de los riesgos y hayan aceptado participar de forma explícita"
+  },
+  {
+   "id": "p050-1",
+   "page": 50,
+   "question": "¿Qué debe portar el piloto durante el vuelo en categoría «abierta»?",
+   "options": [
+    "Una prueba de la formación necesaria",
+    "El certificado de aeronavegabilidad",
+    "El plan de vuelo presentado a ENAIRE"
+   ],
+   "answer": 0,
+   "source": "El piloto debe disponer de la formación necesaria y portar una prueba durante el vuelo"
+  },
+  {
+   "id": "p050-2",
+   "page": 50,
+   "question": "¿Puede el piloto volar cerca de zonas donde se desarrollan operaciones de emergencia?",
+   "options": [
+    "Sí, si mantiene 50 m de distancia",
+    "Sí, en la subcategoría A3",
+    "No, salvo permiso expreso del servicio de emergencia responsable"
+   ],
+   "answer": 2,
+   "source": "No podrá volar cerca o en zonas donde se estén desarrollando operaciones de emergencia, salvo permiso expreso del servicio de emergencia responsable"
+  },
+  {
+   "id": "p050-3",
+   "page": 50,
+   "question": "Respecto a la masa y las modificaciones del UAS, el piloto…",
+   "options": [
+    "Puede añadir carga siempre que no supere 25 kg",
+    "No puede superar la MTOM ni el límite de masa de la clase, ni modificar el UAS en contra de lo establecido por el fabricante",
+    "Puede modificar el UAS si informa a AESA"
+   ],
+   "answer": 1,
+   "source": "No se podrá superar la MTOM del UAS, ni superar el límite de masa de la clase del UAS ni modificar el UAS en contra de lo establecido por el fabricante"
+  },
+  {
+   "id": "p054-1",
+   "page": 54,
+   "question": "Según el resumen del módulo, ¿cuándo puede un operador en categoría «abierta» no registrarse?",
+   "options": [
+    "Si el UAS es de clase C2",
+    "Si usa UAS de MTOM inferior a 250 g sin sensores de captación de datos",
+    "Si vuela solo en zonas rurales"
+   ],
+   "answer": 1,
+   "source": "salvo que en esta última use UAS de MTOM < 250 g y no estén equipados con sensores de captación de datos (cámara, micrófono o GNSS)"
+  },
+  {
+   "id": "p060-1",
+   "page": 60,
+   "question": "¿Qué estudia la aerodinámica?",
+   "options": [
+    "La estructura del espacio aéreo",
+    "El movimiento de los gases alrededor de los objetos",
+    "El funcionamiento de las baterías"
+   ],
+   "answer": 1,
+   "source": "Aerodinámica: Parte de la mecánica que estudia el movimiento de los gases alrededor de los objetos."
+  },
+  {
+   "id": "p060-2",
+   "page": 60,
+   "question": "¿Qué dos fuerzas principales se generan cuando el aire fluye alrededor del perfil aerodinámico?",
+   "options": [
+    "Peso y empuje",
+    "Sustentación y resistencia",
+    "Empuje y gravedad"
+   ],
+   "answer": 1,
+   "source": "De esta acción se generan dos fuerzas principales que se denominan sustentación y resistencia."
+  },
+  {
+   "id": "p060-3",
+   "page": 60,
+   "question": "¿Cuál es un ejemplo de perfil aerodinámico?",
+   "options": [
+    "El tren de aterrizaje",
+    "La batería",
+    "Las palas del rotor de un UAS"
+   ],
+   "answer": 2,
+   "source": "Ejemplos de perfiles son el ala de un avión o las palas de un rotor de un UAS."
+  },
+  {
+   "id": "p061-1",
+   "page": 61,
+   "question": "Según el principio de Bernoulli, si la velocidad de un fluido aumenta…",
+   "options": [
+    "La presión estática aumenta",
+    "La presión total disminuye",
+    "La presión estática disminuye"
+   ],
+   "answer": 2,
+   "source": "si la velocidad de un fluido se incrementa, la presión estática disminuye"
+  },
+  {
+   "id": "p061-2",
+   "page": 61,
+   "question": "Según el efecto Venturi, al pasar por un estrechamiento las partículas de un fluido…",
+   "options": [
+    "Reducen su velocidad y aumenta la presión",
+    "Aumentan su velocidad y disminuye la presión",
+    "Mantienen su velocidad y su presión"
+   ],
+   "answer": 1,
+   "source": "Al pasar por un estrechamiento las partículas de un fluido aumentan su velocidad mientas que la presión disminuye."
+  },
+  {
+   "id": "p061-3",
+   "page": 61,
+   "question": "¿Qué es el ángulo de ataque?",
+   "options": [
+    "El ángulo de la hélice respecto al motor",
+    "El ángulo entre el UAS y el piloto",
+    "El ángulo que forma la cuerda geométrica de un perfil alar con la dirección del aire incidente"
+   ],
+   "answer": 2,
+   "source": "el ángulo que forma la cuerda geométrica de un perfil alar con la dirección del aire incidente"
+  },
+  {
+   "id": "p061-4",
+   "page": 61,
+   "question": "¿Qué ley dice que toda acción tiene otra de igual magnitud y sentido opuesto?",
+   "options": [
+    "La tercera ley de Newton",
+    "La ley de Boyle",
+    "El principio de Bernoulli"
+   ],
+   "answer": 0,
+   "source": "Tercera Ley de Newton: Toda acción tiene una acción de igual magnitud pero de sentido opuesto."
+  },
+  {
+   "id": "p062-1",
+   "page": 62,
+   "question": "¿Cómo se llaman la parte superior y la inferior del ala?",
+   "options": [
+    "Extradós la superior e intradós la inferior",
+    "Borde de ataque y borde de salida",
+    "Intradós la superior y extradós la inferior"
+   ],
+   "answer": 0,
+   "source": "parte superior (extradós) y la inferior del ala (intradós)"
+  },
+  {
+   "id": "p064-1",
+   "page": 64,
+   "question": "¿Qué ocurre al aumentar el ángulo de ataque?",
+   "options": [
+    "Disminuye la sustentación",
+    "Aumenta la sustentación",
+    "Disminuye la resistencia"
+   ],
+   "answer": 1,
+   "source": "A mayor ángulo de ataque mayor sustentación"
+  },
+  {
+   "id": "p065-1",
+   "page": 65,
+   "question": "¿Con qué letra se representa la sustentación?",
+   "options": [
+    "L, del inglés «Lift»",
+    "T, del inglés «Thrust»",
+    "S, de sustentación"
+   ],
+   "answer": 0,
+   "source": "Se suelo representar con la letra L del inglés “Lift”"
+  },
+  {
+   "id": "p065-2",
+   "page": 65,
+   "question": "Para que la aeronave se desplace en el aire…",
+   "options": [
+    "El peso debe superar a la sustentación",
+    "La fuerza de empuje debe superar a la fuerza de resistencia",
+    "La resistencia debe superar al empuje"
+   ],
+   "answer": 1,
+   "source": "la fuerza de empuje debe superar a la fuerza de resistencia que se opone a su movimiento"
+  },
+  {
+   "id": "p065-3",
+   "page": 65,
+   "question": "¿Cómo varía la resistencia (D) con la velocidad de la aeronave?",
+   "options": [
+    "Disminuye al aumentar la velocidad",
+    "No depende de la velocidad",
+    "Es mayor cuanto mayor es la velocidad"
+   ],
+   "answer": 2,
+   "source": "La resistencia es mayor cuanto mayor es la velocidad de la aeronave."
+  },
+  {
+   "id": "p065-4",
+   "page": 65,
+   "question": "¿Qué afirmación sobre el peso (W) es correcta?",
+   "options": [
+    "Su sentido es hacia abajo y su intensidad es proporcional a la masa de la aeronave",
+    "Es perpendicular al viento relativo y actúa hacia arriba",
+    "Lo proporciona el motor"
+   ],
+   "answer": 0,
+   "source": "su sentido es hacia abajo y su intensidad es proporcional a la masa de la aeronave"
+  },
+  {
+   "id": "p066-1",
+   "page": 66,
+   "question": "En los multirrotores, ¿con qué fuerza se asimila la sustentación?",
+   "options": [
+    "Con la resistencia",
+    "Con el peso",
+    "Con el empuje"
+   ],
+   "answer": 2,
+   "source": "se asimila la sustentación con el empuje"
+  },
+  {
+   "id": "p066-2",
+   "page": 66,
+   "question": "Para que un UAS se eleve…",
+   "options": [
+    "El peso tiene que ser mayor que la sustentación",
+    "El empuje tiene que ser menor que la resistencia",
+    "La sustentación tiene que ser mayor que el peso"
+   ],
+   "answer": 2,
+   "source": "Para que un UAS se eleve la fuerza de sustentación tiene que ser mayor que la fuerza de gravedad (peso)"
+  },
+  {
+   "id": "p067-1",
+   "page": 67,
+   "question": "¿En qué capa de la atmósfera vuelan los UAS?",
+   "options": [
+    "Mesosfera",
+    "Estratosfera",
+    "Troposfera"
+   ],
+   "answer": 2,
+   "source": "La subcapa donde tiene lugar el vuelo de los UAS se denomina troposfera."
+  },
+  {
+   "id": "p067-2",
+   "page": 67,
+   "question": "A mayor altura, la presión del aire…",
+   "options": [
+    "Es mayor",
+    "Es menor",
+    "No varía"
+   ],
+   "answer": 1,
+   "source": "a mayor altura, menor presión"
+  },
+  {
+   "id": "p067-3",
+   "page": 67,
+   "question": "Cuando aumenta la temperatura, la densidad del aire…",
+   "options": [
+    "No cambia",
+    "Disminuye",
+    "Aumenta"
+   ],
+   "answer": 1,
+   "source": "cuando aumenta la temperatura las moléculas que componen el aire se dispersan, disminuyendo la densidad"
+  },
+  {
+   "id": "p067-4",
+   "page": 67,
+   "question": "Según la ley de Boyle, a temperatura constante…",
+   "options": [
+    "El volumen de un gas aumenta con la presión",
+    "La presión no depende del volumen",
+    "Los volúmenes ocupados por un gas son inversamente proporcionales a las presiones"
+   ],
+   "answer": 2,
+   "source": "Según la Ley de Boyle a temperatura constante los volúmenes ocupados por una gas son inversamente proporcionales a las presiones a las que esté sometido."
+  },
+  {
+   "id": "p068-1",
+   "page": 68,
+   "question": "Si la densidad del aire aumenta…",
+   "options": [
+    "Disminuyen la sustentación y la resistencia",
+    "Aumentan la sustentación y la resistencia",
+    "Solo aumenta la resistencia"
+   ],
+   "answer": 1,
+   "source": "Si la densidad del aire aumenta hace que aumente la sustentación y la resistencia de la aeronave."
+  },
+  {
+   "id": "p068-2",
+   "page": 68,
+   "question": "¿Cuáles son los principales factores ambientales que pueden afectar al vuelo, según el temario?",
+   "options": [
+    "La masa, la batería y la hélice",
+    "La densidad del aire, la humedad y el viento",
+    "El ruido, la luz y el GNSS"
+   ],
+   "answer": 1,
+   "source": "Los principales factores que pueden afectar son la densidad del aire, la humedad y el viento."
+  },
+  {
+   "id": "p069-1",
+   "page": 69,
+   "question": "Cuando la humedad del aire es mayor…",
+   "options": [
+    "La densidad aumenta y la sustentación también",
+    "La densidad disminuye y la sustentación también",
+    "La sustentación no se ve afectada"
+   ],
+   "answer": 1,
+   "source": "cuando la humedad del aire es mayor, la densidad disminuye y esto provoca que la sustentación del UAS también disminuya"
+  },
+  {
+   "id": "p069-2",
+   "page": 69,
+   "question": "¿A qué fases del vuelo afecta el viento en cara o en cola?",
+   "options": [
+    "Solo a la carga de las baterías",
+    "Solo al aterrizaje",
+    "Al despegue, ascenso, crucero y aterrizaje"
+   ],
+   "answer": 2,
+   "source": "El viento en cara o en cola afecta al despegue, ascenso, crucero, y aterrizaje de la aeronave."
+  },
+  {
+   "id": "p070-1",
+   "page": 70,
+   "question": "¿Qué parte constituye el «cerebro» de la aeronave?",
+   "options": [
+    "El regulador de velocidad (ESC)",
+    "La placa controladora de vuelo",
+    "El gimbal"
+   ],
+   "answer": 1,
+   "source": "PLACA CONTROLADORA DE VUELO: Esta parte constituye el denominado cerebro de la aeronave"
+  },
+  {
+   "id": "p070-2",
+   "page": 70,
+   "question": "¿Qué baterías son las más utilizadas en los UAS?",
+   "options": [
+    "Las de plomo-ácido",
+    "Las de polímero de litio (Li-Po)",
+    "Las de níquel-cadmio (Ni-Cd)"
+   ],
+   "answer": 1,
+   "source": "BATERÍAS: Las más utilizadas son las de polímero de litio, “Li-Po”."
+  },
+  {
+   "id": "p070-3",
+   "page": 70,
+   "question": "En general, cuanto mayor es la longitud de la hélice…",
+   "options": [
+    "Menor es el consumo",
+    "Menor es el empuje",
+    "Mayor es el empuje"
+   ],
+   "answer": 2,
+   "source": "En general, cuanto mayor es la longitud de la hélice mayor es el empuje."
+  },
+  {
+   "id": "p070-4",
+   "page": 70,
+   "question": "¿Qué motores son los más utilizados en los giroaviones?",
+   "options": [
+    "Los motores eléctricos sin escobillas",
+    "Los motores de combustión de dos tiempos",
+    "Los motores eléctricos con escobillas"
+   ],
+   "answer": 0,
+   "source": "Los más utilizados para giroaviones son los motores eléctricos sin escobillas."
+  },
+  {
+   "id": "p071-1",
+   "page": 71,
+   "question": "¿Qué función tienen los reguladores de velocidad (ESC)?",
+   "options": [
+    "Hacer que los motores giren a la velocidad necesaria",
+    "Estabilizar la carga de pago",
+    "Transmitir el vídeo a la estación de control"
+   ],
+   "answer": 0,
+   "source": "Los ESC (Electronic Speed Control) son los encargados de que los motores de la aeronave giren a la velocidad necesaria"
+  },
+  {
+   "id": "p071-2",
+   "page": 71,
+   "question": "¿Para qué sirve el gimbal o cardán?",
+   "options": [
+    "Para aterrizar",
+    "Para estabilizar la carga de pago",
+    "Para regular la velocidad de los motores"
+   ],
+   "answer": 1,
+   "source": "GIMBAL O CARDÁN: Es la parte que sirve de estabilización de la carga de pago a la aeronave."
+  },
+  {
+   "id": "p071-3",
+   "page": 71,
+   "question": "¿Qué es la carga de pago o útil?",
+   "options": [
+    "El conjunto de motores y hélices",
+    "El equipo instalado en la aeronave que no se usa para su manejo o control en vuelo",
+    "La batería principal"
+   ],
+   "answer": 1,
+   "source": "no se utilice ni esté destinado a emplearse para el manejo o control de la aeronave en vuelo"
+  },
+  {
+   "id": "p073-1",
+   "page": 73,
+   "question": "¿Cómo se denomina la estación de control o emisora de radio de un UAS?",
+   "options": [
+    "GCS (Ground Control System)",
+    "FTS (Flight Termination System)",
+    "IMU (Inertial Measurement Unit)"
+   ],
+   "answer": 0,
+   "source": "estación de control o emisora de radio denominada GCS (Ground Control System)"
+  },
+  {
+   "id": "p075-1",
+   "page": 75,
+   "question": "¿Qué movimiento se realiza alrededor del eje longitudinal?",
+   "options": [
+    "Alabeo",
+    "Cabeceo",
+    "Guiñada"
+   ],
+   "answer": 0,
+   "source": "Alabeo: Movimiento alrededor del eje longitudinal."
+  },
+  {
+   "id": "p075-2",
+   "page": 75,
+   "question": "¿Alrededor de qué eje se produce el cabeceo?",
+   "options": [
+    "El longitudinal",
+    "El vertical",
+    "El transversal"
+   ],
+   "answer": 2,
+   "source": "Cabeceo: Movimiento alrededor del eje transversal."
+  },
+  {
+   "id": "p075-3",
+   "page": 75,
+   "question": "¿Alrededor de qué eje se produce la guiñada?",
+   "options": [
+    "El transversal",
+    "El vertical",
+    "El longitudinal"
+   ],
+   "answer": 1,
+   "source": "Guiñada: Movimiento alrededor del eje vertical."
+  },
+  {
+   "id": "p075-4",
+   "page": 75,
+   "question": "¿Dónde se cruzan los tres ejes de vuelo de una aeronave?",
+   "options": [
+    "En su centro de gravedad",
+    "En la batería",
+    "En el morro"
+   ],
+   "answer": 0,
+   "source": "cuyo punto de intersección está situado en el centro de gravedad de la misma"
+  },
+  {
+   "id": "p078-1",
+   "page": 78,
+   "question": "Para lograr cualquier movimiento en un multirrotor, la controladora…",
+   "options": [
+    "Varía la velocidad de algún motor para lograr una fuerza resultante",
+    "Cambia el paso de las hélices",
+    "Mueve los alerones"
+   ],
+   "answer": 0,
+   "source": "lo que hace la controladora es variar la velocidad de algún motor para lograr una fuerza resultante"
+  },
+  {
+   "id": "p078-2",
+   "page": 78,
+   "question": "En un cuadricóptero en X, si aumenta la velocidad de los motores del plano izquierdo…",
+   "options": [
+    "Bascula hacia el lado derecho",
+    "Asciende verticalmente",
+    "Bascula hacia el lado izquierdo"
+   ],
+   "answer": 0,
+   "source": "Si se aumenta le velocidad de los motores del plano izquierdo el giroavión bascula hacia el lado derecho"
+  },
+  {
+   "id": "p079-1",
+   "page": 79,
+   "question": "En un cuadricóptero en X, si aumenta la velocidad de los motores traseros…",
+   "options": [
+    "Bascula hacia la derecha",
+    "Gira sobre su eje vertical",
+    "Bascula hacia adelante"
+   ],
+   "answer": 2,
+   "source": "Si se aumenta le velocidad de los motores traseros, el multirrotor bascula hacia adelante"
+  },
+  {
+   "id": "p080-1",
+   "page": 80,
+   "question": "Si aumenta la velocidad de los motores que giran en el sentido de las agujas del reloj, el giroavión…",
+   "options": [
+    "Asciende verticalmente",
+    "Gira en sentido antihorario",
+    "Gira en sentido horario"
+   ],
+   "answer": 1,
+   "source": "provoca que el giroavión gire en sentido antihorario"
+  },
+  {
+   "id": "p081-1",
+   "page": 81,
+   "question": "¿Qué es el enlace de subida?",
+   "options": [
+    "El que va del UAS a la GCS",
+    "El que va del UAS a los satélites",
+    "El que va de la estación de control (GCS) al UAS"
+   ],
+   "answer": 2,
+   "source": "Enlace de subida: De la GCS al UAS."
+  },
+  {
+   "id": "p081-2",
+   "page": 81,
+   "question": "¿Qué se transmite por el enlace de bajada?",
+   "options": [
+    "El plan de vuelo",
+    "La telemetría, el estado de la carga de pago y de las baterías, y el vídeo o imágenes",
+    "Los comandos de control y las correcciones GNSS"
+   ],
+   "answer": 1,
+   "source": "Enlace de bajada: Del UAS a la GCS. Telemetría (datos de vuelo)."
+  },
+  {
+   "id": "p081-3",
+   "page": 81,
+   "question": "¿Qué es la latencia?",
+   "options": [
+    "El alcance máximo del enlace",
+    "El tiempo necesario para producir, procesar, enviar, recibir, interpretar y ejecutar una orden",
+    "La frecuencia de la emisora"
+   ],
+   "answer": 1,
+   "source": "Latencia: Tiempo necesario para producir, procesar, enviar, recibir, interpretar y ejecutar una orden de comando."
+  },
+  {
+   "id": "p081-4",
+   "page": 81,
+   "question": "¿Cuáles son las frecuencias de enlace típicas en el uso de UAS?",
+   "options": [
+    "27 MHz y 433 MHz",
+    "2,4 GHz y 5,8 GHz",
+    "900 MHz y 1,2 GHz"
+   ],
+   "answer": 1,
+   "source": "Las frecuencias de enlace de comunicaciones típicas en el uso de UAS son 2,4 Ghz y 5,8 Ghz."
+  },
+  {
+   "id": "p081-5",
+   "page": 81,
+   "question": "Si se pierde el radioenlace y el UAS dispone de función de vuelta a casa (RTH)…",
+   "options": [
+    "El piloto siempre debe activarla manualmente",
+    "Esta se activa de manera automática",
+    "El UAS cae inmediatamente"
+   ],
+   "answer": 1,
+   "source": "en caso de que el UAS disponga de función de vuelta a casa («RTH», por sus siglas en inglés de «Return To Home»), éste se activará de manera automática"
+  },
+  {
+   "id": "p082-1",
+   "page": 82,
+   "question": "¿De qué se compone la IMU?",
+   "options": [
+    "De un receptor GNSS y un barómetro",
+    "De un acelerómetro y un giróscopo combinados",
+    "De un magnetómetro y una cámara"
+   ],
+   "answer": 1,
+   "source": "Está compuesto por un acelerómetro (mide la aceleración lineal con que se mueve el sensor) y un giróscopo (mide la velocidad angular) combinados."
+  },
+  {
+   "id": "p082-2",
+   "page": 82,
+   "question": "¿Cuántos satélites se necesitan como mínimo para conocer la posición del UAS en tres dimensiones?",
+   "options": [
+    "4",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "source": "se necesitan al menos 4 satélites"
+  },
+  {
+   "id": "p082-3",
+   "page": 82,
+   "question": "¿Qué sensor se usa como brújula para saber hacia dónde apunta el morro del UA?",
+   "options": [
+    "El magnetómetro",
+    "El giróscopo",
+    "El sensor barométrico"
+   ],
+   "answer": 0,
+   "source": "Magnetómetro: este sensor proporciona información acerca del norte magnético. Se utiliza como una brújula"
+  },
+  {
+   "id": "p082-4",
+   "page": 82,
+   "question": "¿Qué son los sensores anticolisión «Sense and Avoid» (SAA)?",
+   "options": [
+    "Sensores de temperatura de la batería",
+    "Un sistema con el que la aeronave detecta y evita obstáculos fijos sin intervención del piloto",
+    "Un sistema para medir la velocidad del viento"
+   ],
+   "answer": 1,
+   "source": "Sistema por el cual la aeronave puede detectar y evitar obstáculos fijos en su trayectoria de vuelo sin la intervención del piloto."
+  },
+  {
+   "id": "p083-1",
+   "page": 83,
+   "question": "¿Qué es el sistema «geocaging»?",
+   "options": [
+    "Un límite virtual en el que el software no deja entrar a la aeronave",
+    "Un sistema de identificación remota",
+    "Un límite virtual del que el software no deja salir a la aeronave"
+   ],
+   "answer": 2,
+   "source": "Sistema geocaging: Volumen operacional/ límite virtual del espacio aéreo establecido mediante geolocalización, dentro del cual ha limitado a la aeronave la salida por software."
+  },
+  {
+   "id": "p083-2",
+   "page": 83,
+   "question": "¿Qué es el sistema «geofencing»?",
+   "options": [
+    "Un límite virtual del que la aeronave no puede salir",
+    "Un sistema de aterrizaje automático",
+    "Un límite virtual en el que el software no deja entrar a la aeronave"
+   ],
+   "answer": 2,
+   "source": "dentro del cual ha limitado a la aeronave la entrada por software"
+  },
+  {
+   "id": "p084-1",
+   "page": 84,
+   "question": "Si se pierde la señal GNSS, el autopiloto…",
+   "options": [
+    "Apaga los motores inmediatamente",
+    "Acelera hacia el punto de despegue",
+    "Pasa a vuelo estacionario y, si no recupera la señal en un tiempo preestablecido, aterriza verticalmente"
+   ],
+   "answer": 2,
+   "source": "En caso de pérdida de GNSS el autopiloto pasa a comandar un hovering (vuelo estacionario sobre un punto) y en un tiempo preestablecido si no se recupera esta señal, se procederá al aterrizaje vertical de la aeronave."
+  },
+  {
+   "id": "p084-2",
+   "page": 84,
+   "question": "¿Qué significa FTS?",
+   "options": [
+    "Sistema de terminación de vuelo («Flight Termination System»)",
+    "Sistema de seguimiento de vuelo",
+    "Frecuencia de transmisión segura"
+   ],
+   "answer": 0,
+   "source": "Sistema de terminación de vuelo (FTS)"
+  },
+  {
+   "id": "p084-3",
+   "page": 84,
+   "question": "Ante un fallo de comunicación o pérdida de control, la función de vuelta a casa (RTH)…",
+   "options": [
+    "Aumenta la potencia de emisión",
+    "Mantiene una altura predeterminada y vuelve a una posición de seguridad definida antes, donde aterriza",
+    "Hace aterrizar el UAS en el punto donde se encuentra"
+   ],
+   "answer": 1,
+   "source": "mantiene una altura predeterminada y vuelve a una posición de seguridad definida con anterioridad"
+  },
+  {
+   "id": "p085-1",
+   "page": 85,
+   "question": "¿Qué debe hacer todo piloto antes del primer vuelo?",
+   "options": [
+    "Hacer un curso de radiofonista",
+    "Conocer bien los principales elementos, limitaciones y características de su UAS",
+    "Solicitar autorización a ENAIRE"
+   ],
+   "answer": 1,
+   "source": "Antes del primer vuelo es necesario que todo piloto conozca bien los principales elementos, limitaciones y características de su UAS"
+  },
+  {
+   "id": "p086-1",
+   "page": 86,
+   "question": "Si se añaden sistemas o se varía la carga útil, la MTOM del UA…",
+   "options": [
+    "Puede superarse un 10 %",
+    "Puede superarse si el UAS es de clase C3",
+    "No debe superarse en ningún caso"
+   ],
+   "answer": 2,
+   "source": "en caso de incluir sistemas adicionales o variar la carga útil, no superar este valor en ningún caso"
+  },
+  {
+   "id": "p088-1",
+   "page": 88,
+   "question": "Si el UAS dispone de un sistema para establecer una altura máxima de vuelo…",
+   "options": [
+    "Solo se aplica de noche",
+    "Puede superarse en la subcategoría A3",
+    "Esa altura no podrá superarse durante el vuelo"
+   ],
+   "answer": 2,
+   "source": "Si el UAS dispone de un sistema para establecer una altura máxima de vuelo, esta no podrá ser superada durante el vuelo."
+  },
+  {
+   "id": "p088-2",
+   "page": 88,
+   "question": "¿Cómo es el número de registro de operador que se carga en el sistema de identificación remota?",
+   "options": [
+    "Público y compartible",
+    "Único, intransferible y debe mantenerse en privado",
+    "Válido solo durante un año"
+   ],
+   "answer": 1,
+   "source": "el cual es único, intransferible y debe mantenerse en privado"
+  },
+  {
+   "id": "p089-1",
+   "page": 89,
+   "question": "¿Cuándo debe el piloto hacer una inspección exterior del equipo?",
+   "options": [
+    "Solo después de un accidente",
+    "Solo una vez al año",
+    "Antes de cada vuelo"
+   ],
+   "answer": 2,
+   "source": "El piloto a distancia deberá realizar una inspección exterior del equipo, previo a cada vuelo"
+  },
+  {
+   "id": "p089-2",
+   "page": 89,
+   "question": "¿Qué es necesario para mantener unas condiciones seguras de aeronavegabilidad del UAS?",
+   "options": [
+    "Cambiar las hélices tras cada vuelo",
+    "Llevarlo a AESA cada seis meses",
+    "Seguir las instrucciones de mantenimiento facilitadas por el fabricante"
+   ],
+   "answer": 2,
+   "source": "Para mantener unas condiciones seguras de aeronavegabilidad del UAS es necesario seguir las instrucciones de mantenimiento facilitadas por el fabricante del UAS."
+  },
+  {
+   "id": "p090-1",
+   "page": 90,
+   "question": "Las aeronaves no tripuladas, independientemente de su MTOM…",
+   "options": [
+    "Solo pueden volar en un espacio aéreo propio",
+    "Solo pueden volar en espacio aéreo no controlado",
+    "Pueden utilizarse en el mismo espacio aéreo que las aeronaves tripuladas"
+   ],
+   "answer": 2,
+   "source": "Las aeronaves no tripuladas, independientemente de su MTOM, pueden utilizarse dentro del mismo espacio aéreo que las aeronaves tripuladas"
+  },
+  {
+   "id": "p090-2",
+   "page": 90,
+   "question": "¿Qué es el sistema U-space?",
+   "options": [
+    "La infraestructura, los servicios y los procedimientos para garantizar la seguridad de las operaciones de UAS e integrarlas en el espacio aéreo",
+    "Una zona prohibida al vuelo",
+    "Un tipo de UAS de ala fija"
+   ],
+   "answer": 0,
+   "source": "que comprende la infraestructura, los servicios y los procedimientos para garantizar la seguridad de las operaciones de UAS y apoyar su integración en el espacio aéreo"
+  },
+  {
+   "id": "p091-1",
+   "page": 91,
+   "question": "En la categoría abierta, ¿cuál es la altura máxima sobre la superficie del terreno?",
+   "options": [
+    "120 m (400 ft)",
+    "150 m (500 ft)",
+    "60 m (200 ft)"
+   ],
+   "answer": 0,
+   "source": "se podrá volar un UAS a una altura máxima sobre la superficie de 120 m (400ft) del terreno"
+  },
+  {
+   "id": "p091-2",
+   "page": 91,
+   "question": "Si un Estado miembro define una zona geográfica con una altura máxima menor de 120 m…",
+   "options": [
+    "Solo afecta a la categoría «específica»",
+    "Prevalece el límite general de 120 m",
+    "El piloto debe garantizar que la aeronave cumple los requisitos de esa zona"
+   ],
+   "answer": 2,
+   "source": "el piloto deberá garantizar que la aeronave siempre cumple con los requisitos de la zona geográfica en cuestión"
+  },
+  {
+   "id": "p092-1",
+   "page": 92,
+   "question": "En entornos urbanos, en categoría «abierta», ¿se pueden sobrevolar edificios y domicilios?",
+   "options": [
+    "Sí, si se vuela a más de 50 m",
+    "No, ni siquiera con autorización",
+    "No, salvo expresa autorización del propietario"
+   ],
+   "answer": 2,
+   "source": "salvo expresa autorización del propietario"
+  },
+  {
+   "id": "p092-2",
+   "page": 92,
+   "question": "En entorno urbano, ¿qué distancia segura a edificios corresponde a la subcategoría A3?",
+   "options": [
+    "30 metros",
+    "Sin distancia mínima",
+    "150 metros"
+   ],
+   "answer": 2,
+   "source": "150 Metros"
+  },
+  {
+   "id": "p093-1",
+   "page": 93,
+   "question": "¿Qué es el nivel de vuelo (FL)?",
+   "options": [
+    "El número de vuelos al día",
+    "La altura sobre el terreno en metros",
+    "La altitud de una aeronave a la presión atmosférica estándar, expresada en cientos de pies"
+   ],
+   "answer": 2,
+   "source": "FL (Flight Level): Nivel de vuelo. Altitud de una aeronave a la presión atmosférica estándar, expresada en cientos de pies (ft)."
+  },
+  {
+   "id": "p093-2",
+   "page": 93,
+   "question": "¿Qué permiten las reglas de vuelo visual (VFR)?",
+   "options": [
+    "Volar solo a los UAS",
+    "Dirigir la aeronave y mantener la separación con los obstáculos con la única ayuda de la observación visual",
+    "Volar con instrumentos sin contacto visual con el terreno"
+   ],
+   "answer": 1,
+   "source": "mantener la separación de seguridad con cualquier obstáculo con la única ayuda de la observación visual"
+  },
+  {
+   "id": "p093-3",
+   "page": 93,
+   "question": "Según el temario, ¿a cuántos metros equivalen 400 ft?",
+   "options": [
+    "120 m",
+    "40 m",
+    "400 m"
+   ],
+   "answer": 0,
+   "source": "400 ft = 120 m"
+  },
+  {
+   "id": "p094-1",
+   "page": 94,
+   "question": "¿Qué es el espacio aéreo controlado?",
+   "options": [
+    "Un espacio en el que no se presta servicio ATC",
+    "Un espacio reservado solo a los UAS",
+    "Un espacio de dimensiones definidas en el que se presta servicio de control de tránsito aéreo (ATC) a los vuelos IFR y VFR"
+   ],
+   "answer": 2,
+   "source": "CONTROLADO: Espacio aéreo de dimensiones definidas dentro del cual se facilita el servicio de control de tránsito aéreo"
+  },
+  {
+   "id": "p095-1",
+   "page": 95,
+   "question": "¿Qué es una zona de control (CTR)?",
+   "options": [
+    "Una zona de fauna sensible",
+    "Un espacio aéreo no controlado asociado a aeródromos AFIS",
+    "Un volumen de espacio aéreo desde el suelo hasta una altura determinada que protege y controla el tráfico de uno o más aeródromos"
+   ],
+   "answer": 2,
+   "source": "ZONAS DE CONTROL (CTR): Volumen de espacio aéreo que se extiende desde el suelo hasta una altura determinada."
+  },
+  {
+   "id": "p095-2",
+   "page": 95,
+   "question": "¿Cuánto se extiende como mínimo una CTR desde el centro del aeropuerto?",
+   "options": [
+    "20 NM",
+    "5 NM",
+    "1 NM"
+   ],
+   "answer": 1,
+   "source": "Se extiende por lo menos 5 NM del centro del aeropuerto que trata de controlar."
+  },
+  {
+   "id": "p095-3",
+   "page": 95,
+   "question": "Las zonas de información de vuelo (FIZ) son espacio aéreo…",
+   "options": [
+    "Prohibido",
+    "No controlado, asociado a aeródromos AFIS",
+    "Controlado de clase A"
+   ],
+   "answer": 1,
+   "source": "ZONAS DE INFORMACIÓN DE VUELO (FIZ): Espacio aéreo NO CONTROLADO"
+  },
+  {
+   "id": "p096-1",
+   "page": 96,
+   "question": "¿En qué clases se divide el espacio aéreo controlado?",
+   "options": [
+    "F y G",
+    "A y G",
+    "A, B, C, D y E"
+   ],
+   "answer": 2,
+   "source": "El espacio aéreo controlado, a su vez se divide en las clases A, B, C, D y E."
+  },
+  {
+   "id": "p096-2",
+   "page": 96,
+   "question": "¿En qué clases se divide el espacio aéreo no controlado?",
+   "options": [
+    "A y B",
+    "D y E",
+    "F y G"
+   ],
+   "answer": 2,
+   "source": "El espacio aéreo no controlado a su vez se divide en las clases F y G."
+  },
+  {
+   "id": "p097-1",
+   "page": 97,
+   "question": "¿En qué clases de espacio aéreo pueden estar los aeropuertos con torre?",
+   "options": [
+    "Solo A",
+    "B, C o D",
+    "F o G"
+   ],
+   "answer": 1,
+   "source": "Los aeropuertos con torre, en función del tipo de tráfico que admitan, pueden estar en espacio de clase B, C o D."
+  },
+  {
+   "id": "p099-1",
+   "page": 99,
+   "question": "¿Quién aprueba las zonas geográficas UAS particulares?",
+   "options": [
+    "ENAIRE",
+    "La Comisión Interministerial entre Defensa y Transportes (CIDETRA)",
+    "EASA"
+   ],
+   "answer": 1,
+   "source": "aprobadas por la Comisión Interministerial entre Defensa y Transportes (CIDETRA)"
+  },
+  {
+   "id": "p100-1",
+   "page": 100,
+   "question": "¿Cuál de estas medidas pueden adoptar los Estados miembros en las zonas geográficas UAS?",
+   "options": [
+    "Obligar a volar sin identificación remota",
+    "Delegar la gestión de la zona en el fabricante del UAS",
+    "Permitir el acceso solamente a ciertas clases de UAS"
+   ],
+   "answer": 2,
+   "source": "Permitir el acceso solamente a ciertas clases de UAS"
+  },
+  {
+   "id": "p101-1",
+   "page": 101,
+   "question": "¿Dónde está disponible la información sobre las zonas geográficas UAS?",
+   "options": [
+    "En el manual del fabricante",
+    "En el visor cartográfico ENAIRE drones",
+    "En la web de EASA"
+   ],
+   "answer": 1,
+   "source": "Esta información estará disponible en el visor cartográfico Enaire drones"
+  },
+  {
+   "id": "p101-2",
+   "page": 101,
+   "question": "Si el UAS dispone de función de geoconsciencia, ¿quién es responsable de actualizarla?",
+   "options": [
+    "El operador",
+    "El fabricante",
+    "ENAIRE"
+   ],
+   "answer": 0,
+   "source": "su actualización es responsabilidad del operador"
+  },
+  {
+   "id": "p102-1",
+   "page": 102,
+   "question": "En una zona prohibida (P)…",
+   "options": [
+    "Pueden volar todos los UAS de clase C0",
+    "Solo pueden circular aeronaves autorizadas por el Estado español",
+    "El piloto solo debe informarse de las actividades"
+   ],
+   "answer": 1,
+   "source": "Prohibidas (“Prohibited”-P): Es aquel volumen en la que sólo puede circular aeronaves autorizadas por el Estado Español."
+  },
+  {
+   "id": "p102-2",
+   "page": 102,
+   "question": "En una zona peligrosa (D), el piloto…",
+   "options": [
+    "No puede volar nunca",
+    "Necesita autorización militar",
+    "Tiene la obligación de informarse sobre las actividades que han llevado a declararla peligrosa y de cuándo tendrán lugar"
+   ],
+   "answer": 2,
+   "source": "el piloto tiene la obligación de informarse sobre las actividades que han conducido a la autoridad a declarar esa área como peligrosa"
+  },
+  {
+   "id": "p102-3",
+   "page": 102,
+   "question": "¿Qué identificador se usa para las zonas de Canarias?",
+   "options": [
+    "GC",
+    "GE",
+    "LE"
+   ],
+   "answer": 0,
+   "source": "GC para Canarias"
+  },
+  {
+   "id": "p102-4",
+   "page": 102,
+   "question": "¿Qué identificador se emplea para los espacios temporalmente segregados?",
+   "options": [
+    "TR",
+    "LE",
+    "TS"
+   ],
+   "answer": 2,
+   "source": "Se emplea TS para espacios temporalmente segregados"
+  },
+  {
+   "id": "p103-1",
+   "page": 103,
+   "question": "¿Qué son las zonas ZRFV?",
+   "options": [
+    "Zonas reservadas a vuelos VFR",
+    "Zonas de fauna sensible",
+    "Zonas restringidas al vuelo fotográfico, que requieren autorización previa para tomar imágenes aéreas"
+   ],
+   "answer": 2,
+   "source": "Las zonas restringidas al vuelo fotográfico (ZRFV), aquellas zonas que requieren la autorización previa para la realización de fotografía, filmación o cualquier toma de imágenes aéreas"
+  },
+  {
+   "id": "p103-2",
+   "page": 103,
+   "question": "¿Por qué se establecen las zonas de fauna sensible (F)?",
+   "options": [
+    "Por motivos medioambientales y de protección de especies",
+    "Por protección de datos",
+    "Por seguridad militar"
+   ],
+   "answer": 0,
+   "source": "por motivos medio ambientales y de protección de especies"
+  },
+  {
+   "id": "p104-1",
+   "page": 104,
+   "question": "Según el art. 41 del RD 517/2024, para operar en el entorno de aeródromos y helipuertos el operador debe…",
+   "options": [
+    "Avisar a AESA por correo electrónico",
+    "Tener un acuerdo de coordinación con el gestor del aeródromo o helipuerto",
+    "Volar siempre por encima de 120 m"
+   ],
+   "answer": 1,
+   "source": "el operador de UAS deberá tener un acuerdo de coordinación con el gestor del aeródromo y helipuertos para la realización de operaciones con UAS"
+  },
+  {
+   "id": "p104-2",
+   "page": 104,
+   "question": "En aeródromos civiles de uso público, hasta 45 m de altura, ¿qué longitud tiene el área de coordinación desde los extremos de pista?",
+   "options": [
+    "10 kilómetros",
+    "3 kilómetros",
+    "6 kilómetros"
+   ],
+   "answer": 2,
+   "source": "un área de 6 kilómetros de longitud medida desde los extremos de pista"
+  },
+  {
+   "id": "p105-1",
+   "page": 105,
+   "question": "En helipuertos civiles de uso público, ¿hasta qué altura se aplica el área de 2,5 km?",
+   "options": [
+    "Hasta los 90 metros",
+    "Hasta los 45 metros",
+    "Hasta los 900 metros"
+   ],
+   "answer": 0,
+   "source": "Hasta los 90 metros de altura ; medida desde el Punto de Referencia del Helipuerto (HRP): un área de 2,5 kilómetros"
+  },
+  {
+   "id": "p106-1",
+   "page": 106,
+   "question": "En aeródromos civiles de uso restringido, hasta 45 m de altura, el área de coordinación tiene…",
+   "options": [
+    "10 km de longitud y 7,5 km de anchura a cada lado",
+    "6 km de longitud y 5 km de anchura a cada lado",
+    "3 km de longitud desde los extremos de pista y 3 km de anchura a cada lado"
+   ],
+   "answer": 2,
+   "source": "un área de 3 kilómetros de longitud medida desde los extremos de pista en sentido de prolongación del eje de pista hacia fuera y una anchura de 3 kilómetros a ambos lados"
+  },
+  {
+   "id": "p107-1",
+   "page": 107,
+   "question": "¿Dónde se pueden consultar los contactos de los gestores de aeródromos y helipuertos?",
+   "options": [
+    "En el BOE",
+    "En la web de ENAIRE Drones",
+    "En la web de EASA"
+   ],
+   "answer": 1,
+   "source": "Los contactos se podrán consultar en la web de ENAIRE Drones."
+  },
+  {
+   "id": "p108-1",
+   "page": 108,
+   "question": "Según el art. 42 del RD 517/2024, en espacio aéreo controlado y FIZ, ¿hasta qué altura se puede volar sin coordinación con el proveedor ATS (cumpliendo el resto de condiciones)?",
+   "options": [
+    "120 metros AGL",
+    "45 metros AGL",
+    "60 metros AGL"
+   ],
+   "answer": 2,
+   "source": "A una altura máxima de 60 metros AGL"
+  },
+  {
+   "id": "p108-2",
+   "page": 108,
+   "question": "Los vuelos en espacio controlado que cumplen las condiciones del art. 42 (VLOS, 60 m AGL como máximo y fuera de zonas de aeródromos) quedan exentos de…",
+   "options": [
+    "Llevar el número de registro de operador",
+    "Presentar un plan de vuelo (FPL) en ICARO XXI",
+    "Cumplir las normas de la categoría «abierta»"
+   ],
+   "answer": 1,
+   "source": "Presentación de un Plan de vuelo ( FPL ) en ICARO XXI"
+  },
+  {
+   "id": "p109-1",
+   "page": 109,
+   "question": "Las operaciones en espacio controlado que no cumplen esas condiciones deben…",
+   "options": [
+    "Usar un UAS de clase C0",
+    "Disponer de un procedimiento operativo de coordinación con el proveedor ATS (EARO o similar)",
+    "Volar solo de noche"
+   ],
+   "answer": 1,
+   "source": "Disponer de un procedimiento operativo para la coordinación establecido con el proveedor ATS (Evaluación y Atenuación del Riesgo Operacional (EARO) o similar)"
+  },
+  {
+   "id": "p110-1",
+   "page": 110,
+   "question": "Si el proveedor ATS exige comunicaciones entre la estación de control y la dependencia de tránsito aéreo, el piloto debe tener…",
+   "options": [
+    "Un certificado de radiofonista UAS",
+    "Una licencia de piloto privado",
+    "El certificado de competencia A2"
+   ],
+   "answer": 0,
+   "source": "los pilotos UAS deberán contar con un certificado de Radiofonista UAS"
+  },
+  {
+   "id": "p110-2",
+   "page": 110,
+   "question": "¿Quién imparte la formación teórica de radiofonista UAS?",
+   "options": [
+    "ENAIRE",
+    "AESA",
+    "El fabricante del UAS"
+   ],
+   "answer": 1,
+   "source": "Una formación teórica impartida por AESA"
+  },
+  {
+   "id": "p111-1",
+   "page": 111,
+   "question": "¿Cuál es el fin de la notificación de sucesos?",
+   "options": [
+    "Contribuir a la mejora de la seguridad aérea",
+    "Sancionar a los pilotos",
+    "Cobrar tasas a los operadores"
+   ],
+   "answer": 0,
+   "source": "La notificación de sucesos tiene como fin contribuir a la mejora de seguridad aérea"
+  },
+  {
+   "id": "p111-2",
+   "page": 111,
+   "question": "¿Qué sucesos son de notificación obligatoria para los operadores de UAS?",
+   "options": [
+    "Cualquier aterrizaje de emergencia sin daños",
+    "Ninguno",
+    "Los que causan lesiones mortales o graves a una persona o implican a aeronaves tripuladas"
+   ],
+   "answer": 2,
+   "source": "los sucesos que causen lesiones mortales o graves a una persona o impliquen a aeronaves tripuladas"
+  },
+  {
+   "id": "p112-1",
+   "page": 112,
+   "question": "¿A dónde se envían las notificaciones de sucesos?",
+   "options": [
+    "A ENAIRE",
+    "A la policía local",
+    "Al Sistema de Notificación de Sucesos (SNS) de AESA"
+   ],
+   "answer": 2,
+   "source": "Las notificaciones deberán ser enviadas al Sistema de Notificación de Sucesos (SNS) de AESA"
+  },
+  {
+   "id": "p112-2",
+   "page": 112,
+   "question": "¿La finalidad del Sistema de Notificación de Sucesos es buscar responsables?",
+   "options": [
+    "Sí, para poder sancionar",
+    "No; AESA fomenta la cultura justa y la finalidad no es la búsqueda de responsables",
+    "Solo en los accidentes"
+   ],
+   "answer": 1,
+   "source": "la finalidad del SNS no es la búsqueda de responsables"
+  },
+  {
+   "id": "p113-1",
+   "page": 113,
+   "question": "¿En qué plazo se notifican a la CIAIAC los accidentes o incidentes graves?",
+   "options": [
+    "En siete días",
+    "Tan pronto como sea posible, dentro de las 72 horas siguientes",
+    "En un mes"
+   ],
+   "answer": 1,
+   "source": "Se notificará tan pronto como sea posible dentro de las 72 horas siguientes a los hechos"
+  },
+  {
+   "id": "p114-1",
+   "page": 114,
+   "question": "¿Qué dos proveedores existirán en cada espacio U-Space?",
+   "options": [
+    "ENAIRE y AESA",
+    "De servicio de U-Space (USS) y de servicio de Información Común (CIS)",
+    "ATC y AFIS"
+   ],
+   "answer": 1,
+   "source": "De servicio de U-Space (USS) De servicio de Información Común (CIS)"
+  },
+  {
+   "id": "p114-2",
+   "page": 114,
+   "question": "¿Cuál de estos es un servicio U-Space mínimo y obligatorio?",
+   "options": [
+    "Supervisión de la conformidad",
+    "Información meteorológica",
+    "Identificación de red"
+   ],
+   "answer": 2,
+   "source": "Servicios U-Space mínimos y obligatorios Identificación de red"
+  },
+  {
+   "id": "p114-3",
+   "page": 114,
+   "question": "En U-Space, ¿cuándo puede el operador iniciar el vuelo?",
+   "options": [
+    "Sin autorización si vuela en A1",
+    "Una vez recibida la confirmación de la activación de la autorización de vuelo",
+    "Después de avisar por radio"
+   ],
+   "answer": 1,
+   "source": "Una vez recibida la confirmación de la activación de la autorización de vuelo, el operador podrá iniciar su vuelo."
+  },
+  {
+   "id": "p115-1",
+   "page": 115,
+   "question": "¿Qué metodología se usa para evaluar la influencia del estado de salud y de las sustancias sobre el piloto?",
+   "options": [
+    "MEUH",
+    "OODA",
+    "I’M SAFE"
+   ],
+   "answer": 2,
+   "source": "metodología I’M SAFE"
+  },
+  {
+   "id": "p115-2",
+   "page": 115,
+   "question": "En la metodología I’M SAFE, ¿qué significa la «M»?",
+   "options": [
+    "Medicación",
+    "Mantenimiento",
+    "Meteorología"
+   ],
+   "answer": 0,
+   "source": "M: MEDICACIÓN"
+  },
+  {
+   "id": "p116-1",
+   "page": 116,
+   "question": "Según el temario, ¿cómo influye el estrés en el piloto?",
+   "options": [
+    "Cualquier nivel de estrés impide volar",
+    "El estrés no afecta al vuelo",
+    "Un pequeño nivel de estrés puede ser positivo porque le mantiene alerta"
+   ],
+   "answer": 2,
+   "source": "Un pequeño nivel de estrés puede ser positivo para el piloto a distancia a la hora de volar, ya que lo mantiene alerta frente a situaciones de riesgo."
+  },
+  {
+   "id": "p116-2",
+   "page": 116,
+   "question": "El estrés causado por temperaturas extremas, exceso de ruido o un nivel de oxígeno inadecuado es…",
+   "options": [
+    "Estrés producido por el entorno",
+    "Estrés fisiológico",
+    "Estrés psicológico"
+   ],
+   "answer": 0,
+   "source": "Estrés producido por el entorno: Producido por todo lo que nos rodea. Puede incluirse altas o bajas temperaturas, exceso de ruido o nivel de oxigeno inadecuado."
+  },
+  {
+   "id": "p116-3",
+   "page": 116,
+   "question": "El estrés relacionado con la fatiga física (ejercicio previo, estar fuera de forma, jet lag) es…",
+   "options": [
+    "Estrés fisiológico",
+    "Estrés producido por el entorno",
+    "Estrés psicológico"
+   ],
+   "answer": 0,
+   "source": "Estrés fisiológico: Este estrés está relacionado con el físico del piloto a distancia."
+  },
+  {
+   "id": "p116-4",
+   "page": 116,
+   "question": "Si el piloto está enfermo y toma medicación, debe…",
+   "options": [
+    "Volar solo en la subcategoría A1",
+    "Evaluar si la medicación puede causar algún deterioro mental o físico que interfiera con la seguridad del vuelo",
+    "Volar igualmente"
+   ],
+   "answer": 1,
+   "source": "el piloto a distancia debe evaluar si la medicación tomada puede causar algún tipo de deterioro mental o físico que pueda interferir con la seguridad del vuelo"
+  },
+  {
+   "id": "p117-1",
+   "page": 117,
+   "question": "¿Qué puede afectar a la fatiga del piloto?",
+   "options": [
+    "La frecuencia del enlace",
+    "El color del UAS",
+    "La falta de sueño, el cambio de horario, el jet lag o las operaciones nocturnas"
+   ],
+   "answer": 2,
+   "source": "Elementos que pueden afectar a la fatiga del piloto son por ejemplo la falta de sueño, el cambio de horario, el jet lag o las operaciones nocturnas."
+  },
+  {
+   "id": "p117-2",
+   "page": 117,
+   "question": "¿A qué afecta el consumo de alcohol o sustancias psicoactivas?",
+   "options": [
+    "Al cerebro, la vista, el sistema auditivo, la psicomotricidad y el juicio del piloto",
+    "Solo a la vista",
+    "No afecta si la dosis es baja"
+   ],
+   "answer": 0,
+   "source": "El consumo de estas sustancias afecta al cerebro, vista, sistema auditivo, psicomotricidad y al juicio del piloto"
+  },
+  {
+   "id": "p118-1",
+   "page": 118,
+   "question": "¿Qué es la percepción?",
+   "options": [
+    "Un sensor del UAS",
+    "La capacidad de interpretar los estímulos recibidos por los sentidos y formar una impresión física del entorno",
+    "La distancia máxima a la que se ve el UAS"
+   ],
+   "answer": 1,
+   "source": "Percepción: capacidad que tiene el ser humano para interpretar los estímulos que recibe a través de los sentidos y formar una impresión física de su entorno."
+  },
+  {
+   "id": "p118-2",
+   "page": 118,
+   "question": "Volar con el sol de cara afecta a la visión del piloto por el factor…",
+   "options": [
+    "Luminosidad",
+    "Contraste",
+    "Superficie del terreno"
+   ],
+   "answer": 0,
+   "source": "Luminosidad: En situaciones en las que la falta de luminosidad o el exceso de luz pueden afectar a la visión del piloto"
+  },
+  {
+   "id": "p119-1",
+   "page": 119,
+   "question": "Un UAS de color azul parecido al del cielo es más difícil de ver. ¿Qué factor es?",
+   "options": [
+    "Ayudas visuales",
+    "Tamaño del UAS",
+    "Contraste"
+   ],
+   "answer": 2,
+   "source": "Contraste: Aquellos casos en los que debido al color del UAS sea similar a las tonalidades del entorno donde se realiza el vuelo pueden dificultar la visión del mismo durante el vuelo."
+  },
+  {
+   "id": "p119-2",
+   "page": 119,
+   "question": "¿Cómo influye el tamaño del UAS en su visibilidad?",
+   "options": [
+    "Los más voluminosos son más fáciles de ver",
+    "El tamaño no influye",
+    "Los más voluminosos son más difíciles de ver"
+   ],
+   "answer": 0,
+   "source": "Aquellos UAS más voluminosos o de mayor tamaño son más fácilmente visibles para el piloto a distancia que los UAS de menor tamaño."
+  },
+  {
+   "id": "p120-1",
+   "page": 120,
+   "question": "Desde el 1 de julio de 2022, en los vuelos nocturnos el UA debe llevar…",
+   "options": [
+    "Un foco blanco",
+    "Al menos una luz verde intermitente",
+    "Una luz roja fija"
+   ],
+   "answer": 1,
+   "source": "será obligatorio que el UA esté equipado con al menos una luz verde intermitente"
+  },
+  {
+   "id": "p120-2",
+   "page": 120,
+   "question": "¿De qué no tiene una percepción correcta el piloto a distancia?",
+   "options": [
+    "Del estado de su propia emisora",
+    "De la altura exacta a la que se encuentra el UAS",
+    "De la hora del vuelo"
+   ],
+   "answer": 1,
+   "source": "La altura exacta a la que se encuentra el UAS."
+  },
+  {
+   "id": "p121-1",
+   "page": 121,
+   "question": "Según el temario, cualquier intrusión en la vida privada es…",
+   "options": [
+    "Legal si se vuela en A1",
+    "Ilegal",
+    "Legal en zonas públicas"
+   ],
+   "answer": 1,
+   "source": "Cualquier intrusión dentro de la vida privada es ilegal."
+  },
+  {
+   "id": "p121-2",
+   "page": 121,
+   "question": "¿Qué se considera información personal?",
+   "options": [
+    "Solo el nombre y el DNI",
+    "Solo los datos bancarios",
+    "Cualquier información (incluidas imágenes y audios) sobre una persona física identificada o identificable"
+   ],
+   "answer": 2,
+   "source": "cualquier información (incluyendo imágenes y audios) sobre una persona física identificada o identificable"
+  },
+  {
+   "id": "p121-3",
+   "page": 121,
+   "question": "La matrícula de un coche permite identificar a una persona…",
+   "options": [
+    "No permite identificarla",
+    "Indirectamente",
+    "Directamente"
+   ],
+   "answer": 1,
+   "source": "Identificada: Aquella que se puede identificar directamente (ejemplo: cara) o indirectamente (ejemplos: matrícula de coche, localización, etc.)"
+  },
+  {
+   "id": "p122-1",
+   "page": 122,
+   "question": "¿Qué es el RGPD?",
+   "options": [
+    "Un registro de pilotos",
+    "El Reglamento Europeo de protección de las personas físicas en el tratamiento de sus datos personales",
+    "Un tipo de zona geográfica UAS"
+   ],
+   "answer": 1,
+   "source": "El Reglamento General de Protección de Datos (RGPD): Es el Reglamento Europeo relativo a la Protección de las personas físicas en lo que respecta al tratamiento de los datos personales"
+  },
+  {
+   "id": "p123-1",
+   "page": 123,
+   "question": "¿Cuáles son las principales capacidades de un UAS para capturar información personal?",
+   "options": [
+    "Baterías y hélices",
+    "GNSS y magnetómetro",
+    "Cámaras y micrófonos"
+   ],
+   "answer": 2,
+   "source": "Las principales capacidades que puede tener un UAS relacionados con la captura de información personal son: Cámaras. Micrófonos."
+  },
+  {
+   "id": "p124-1",
+   "page": 124,
+   "question": "¿Se puede grabar o fotografiar a una persona en su vida privada?",
+   "options": [
+    "Sí, desde más de 30 m",
+    "Sí, si el UAS pesa menos de 250 g",
+    "No, salvo permiso expreso de esa persona"
+   ],
+   "answer": 2,
+   "source": "¿Se puede grabar o fotografiar a una persona(s) en su vida privada?: Salvo permiso expreso del individuo NO está permitido."
+  },
+  {
+   "id": "p124-2",
+   "page": 124,
+   "question": "¿Se puede grabar un vídeo en un lugar público con gente?",
+   "options": [
+    "En general sí, salvo que sea un seguimiento sistemático y permanente de una persona",
+    "Nunca",
+    "Solo con permiso de AESA"
+   ],
+   "answer": 0,
+   "source": "¿Se puede grabar un vídeo o secuencia de imágenes en un lugar público con gente?: En general sí."
+  },
+  {
+   "id": "p124-3",
+   "page": 124,
+   "question": "En una fotografía tomada en una zona pública, una persona…",
+   "options": [
+    "Puede aparecer como parte de la fotografía, pero no debe ser su objetivo",
+    "Puede ser el objetivo si se usa zoom",
+    "No puede aparecer nunca"
+   ],
+   "answer": 0,
+   "source": "una persona puede aparecer como parte de una fotografía captada con el UAS, pero no debe ser el objetivo de la misma"
+  },
+  {
+   "id": "p125-1",
+   "page": 125,
+   "question": "¿Cuáles son los ejemplos más comunes de interferencia ilícita en operaciones con UAS?",
+   "options": [
+    "La lluvia y el viento",
+    "El robo o secuestro de la aeronave",
+    "La pérdida de señal GNSS"
+   ],
+   "answer": 1,
+   "source": "En el caso de operaciones con UAS los ejemplos mas comunes serán el robo o secuestro de la aeronave no tripulada."
+  },
+  {
+   "id": "p125-2",
+   "page": 125,
+   "question": "Para evitar actos de interferencia ilícita, se recomienda…",
+   "options": [
+    "Desactivar la identificación remota",
+    "Dejar el UAS sin vigilancia en la zona",
+    "Que haya una persona responsable de su vigilancia en todo momento"
+   ],
+   "answer": 2,
+   "source": "Exista una persona responsable de su vigilancia en todo momento."
+  },
+  {
+   "id": "p126-1",
+   "page": 126,
+   "question": "¿Quién es responsable de la custodia y el almacenamiento del UAS y sus baterías?",
+   "options": [
+    "El piloto a distancia",
+    "El fabricante",
+    "AESA"
+   ],
+   "answer": 0,
+   "source": "La custodia y almacenamiento del UAS y sus equipos, incluyendo las baterías, es responsabilidad del piloto a distancia."
+  },
+  {
+   "id": "p126-2",
+   "page": 126,
+   "question": "Para prevenir el secuestro del UAS por interferencia deliberada de las señales se recomienda…",
+   "options": [
+    "Volar más alto",
+    "Usar sistemas de encriptado de la señal",
+    "Usar baterías Li-Po"
+   ],
+   "answer": 1,
+   "source": "se recomienda disponer de medidas de prevención como pueden ser sistemas de encriptado de la señal"
+  },
+  {
+   "id": "p126-3",
+   "page": 126,
+   "question": "¿Qué es el protocolo FHSS?",
+   "options": [
+    "Una técnica de espectro ensanchado por salto de frecuencia que evita interferencias deliberadas",
+    "Un sistema de vuelta a casa",
+    "Un tipo de batería"
+   ],
+   "answer": 0,
+   "source": "PROTOCOLO FHSS: El espectro ensanchado por salto de frecuencia es una técnica de modulación en espectro ensanchado"
+  },
+  {
+   "id": "p127-1",
+   "page": 127,
+   "question": "¿Por qué se recomienda mantener una distancia de seguridad al arrancar y parar los motores?",
+   "options": [
+    "Para ver mejor el UAS",
+    "Para no interferir la señal GNSS",
+    "Porque las hélices y los rotores pueden causar graves heridas"
+   ],
+   "answer": 2,
+   "source": "Las hélices y los rotores pueden causar graves heridas a las personas en caso de entrar en contacto con ellas durante su funcionamiento"
+  },
+  {
+   "id": "p128-1",
+   "page": 128,
+   "question": "¿Cómo deben almacenarse las baterías?",
+   "options": [
+    "Nunca completamente descargadas, siempre con carga parcial (30 % aproximadamente)",
+    "Completamente descargadas",
+    "Siempre cargadas al 100 %"
+   ],
+   "answer": 0,
+   "source": "Nunca almacenar completamente descargadas, siempre con carga parcial (30% aproximadamente)."
+  },
+  {
+   "id": "p128-2",
+   "page": 128,
+   "question": "Durante la carga de las baterías se debe…",
+   "options": [
+    "Usar únicamente los cargadores específicos y vigilar la batería",
+    "Cargar las baterías hinchadas para recuperarlas",
+    "Cargarlas junto a una fuente de calor"
+   ],
+   "answer": 0,
+   "source": "Usar únicamente los cargadores específicos. Vigilar la batería en el proceso de carga."
+  },
+  {
+   "id": "p128-3",
+   "page": 128,
+   "question": "Para transportar baterías se recomienda…",
+   "options": [
+    "Llevarlas sueltas en el bolsillo",
+    "Usar bolsas adecuadas (ignífugas)",
+    "Transportarlas al sol para mantenerlas calientes"
+   ],
+   "answer": 1,
+   "source": "Usar bolsas adecuadas para el transporte (ignifugas)."
+  },
+  {
+   "id": "p129-1",
+   "page": 129,
+   "question": "Desde el RD 517/2024, ¿qué operadores deben estar asegurados conforme al Reglamento 785/2004?",
+   "options": [
+    "Todos los operadores",
+    "Solo los que usan UAS de clase C0",
+    "Los que tienen aeronaves con MTOM igual o superior a 20 kg"
+   ],
+   "answer": 2,
+   "source": "los operadores de UAS con aeronaves no tripuladas con una MTOM igual o superior a 20 kg deberán estar asegurados de conformidad con el Reglamento 785/2004"
+  },
+  {
+   "id": "p130-1",
+   "page": 130,
+   "question": "Para UAS con MTOM inferior a 20 kg, ¿qué norma española aplica en materia de seguros?",
+   "options": [
+    "El Real Decreto 37/2001",
+    "La Ley 18/2014",
+    "El Reglamento 785/2004"
+   ],
+   "answer": 0,
+   "source": "se deberán ajustar a lo indicado en el Real Decreto 37/2001"
+  },
+  {
+   "id": "p130-2",
+   "page": 130,
+   "question": "¿Qué operaciones están exceptuadas de la obligación de aseguramiento?",
+   "options": [
+    "Las de la subcategoría A1 y las de A3 con aeronaves de MTOM inferior a 20 kg",
+    "Todas las de categoría «específica»",
+    "Las de A2 con UAS de clase C2"
+   ],
+   "answer": 0,
+   "source": "Quedan excepcionadas del cumplimiento de las obligaciones de aseguramiento las operaciones: En la categoría «abierta», dentro de subcategoría A1, y En la categoría «abierta», dentro de subcategoría A3, siempre que se realicen con aeronaves de una MTOM inferior a 20 kilogramos."
+  },
+  {
+   "id": "p131-1",
+   "page": 131,
+   "question": "¿Qué se considera lesión mortal?",
+   "options": [
+    "La que provoca la muerte en un plazo de un año",
+    "La que provoca la muerte en un plazo de 30 días desde la fecha del accidente",
+    "La que provoca la muerte en un plazo de 7 días"
+   ],
+   "answer": 1,
+   "source": "Lesión mortal: Cualquier lesión sufrida por una persona en un accidente y que provoque su muerte en un plazo de 30 días contados a partir de la fecha del accidente."
+  },
+  {
+   "id": "p131-2",
+   "page": 131,
+   "question": "¿Qué se considera lesión grave?",
+   "options": [
+    "Cualquier rasguño",
+    "La que tiene como consecuencia hospitalización, rotura de hueso, laceraciones, lesión de órganos o quemaduras",
+    "Solo la pérdida de un miembro"
+   ],
+   "answer": 1,
+   "source": "Cualquier lesión sufrida por una persona en un accidente que tenga como consecuencia hospitalización, rotura de hueso, laceraciones, lesión de órganos o quemaduras."
+  },
+  {
+   "id": "p132-1",
+   "page": 132,
+   "question": "Una cuasi-colisión que exige una maniobra evasiva es un ejemplo de…",
+   "options": [
+    "Operación normal",
+    "Accidente",
+    "Incidente que podría ser grave"
+   ],
+   "answer": 2,
+   "source": "Ejemplos característicos de incidentes que podrían ser graves: Cuasi-colisión que requiere una maniobra evasiva para evitar la colisión"
+  },
+  {
+   "id": "p132-2",
+   "page": 132,
+   "question": "¿A quién se comunica un accidente o incidente grave?",
+   "options": [
+    "A la CIAIAC",
+    "A ENAIRE",
+    "Al fabricante del UAS"
+   ],
+   "answer": 0,
+   "source": "En caso de ocurrencia de un accidente o incidente grave, se comunicará tan pronto como sea posible a la CIAIAC"
+  },
+  {
+   "id": "p132-3",
+   "page": 132,
+   "question": "¿Qué es un incidente?",
+   "options": [
+    "Solo los fallos de GNSS",
+    "Un suceso con lesiones mortales",
+    "Cualquier suceso relacionado con la utilización de una aeronave, distinto de un accidente, que afecte o pueda afectar a la seguridad"
+   ],
+   "answer": 2,
+   "source": "Incidente: Cualquier suceso relacionado con la utilización de una aeronave, distinto de un accidente, que afecte o pueda afectar a la seguridad de su utilización."
+  },
+  {
+   "id": "p133-1",
+   "page": 133,
+   "question": "¿Cuáles son las cuatro fuerzas principales que actúan sobre una aeronave?",
+   "options": [
+    "Sustentación, peso, resistencia y empuje",
+    "Alabeo, cabeceo, guiñada y empuje",
+    "Presión, densidad, humedad y viento"
+   ],
+   "answer": 0,
+   "source": "Las principales fuerzas que actúan sobre una aeronave son 4: sustentación, peso, resistencia y empuje."
+  },
+  {
+   "id": "p143-1",
+   "page": 143,
+   "question": "¿Qué concepto se emplea para verificar los elementos que pueden afectar a la seguridad antes del vuelo?",
+   "options": [
+    "El concepto MEUH",
+    "La función RTH",
+    "La técnica OODA"
+   ],
+   "answer": 0,
+   "source": "empleando el “concepto MEUH”"
+  },
+  {
+   "id": "p144-1",
+   "page": 144,
+   "question": "Si durante la operación el piloto observa un cambio meteorológico que puede afectar a la seguridad y rendimiento de la aeronave…",
+   "options": [
+    "Subirá a más altura",
+    "Continuará y lo anotará al final",
+    "Cancelará el vuelo"
+   ],
+   "answer": 2,
+   "source": "Si durante la operación el piloto observa un cambio en las condiciones meteorológicas que pueda afectar a la seguridad y rendimiento de la aeronave, cancelará el vuelo."
+  },
+  {
+   "id": "p144-2",
+   "page": 144,
+   "question": "Según el temario, ¿a qué puede afectar la temperatura?",
+   "options": [
+    "A la autonomía y el rendimiento de las baterías",
+    "Solo a la cámara",
+    "Al número de registro"
+   ],
+   "answer": 0,
+   "source": "Temperatura: La temperatura puede afectar a la autonomía y el rendimiento de las baterías."
+  },
+  {
+   "id": "p144-3",
+   "page": 144,
+   "question": "¿A qué afectan el nivel de luz o la niebla?",
+   "options": [
+    "A la MTOM",
+    "A la frecuencia del enlace",
+    "A la capacidad del piloto para mantener la aeronave en modo VLOS"
+   ],
+   "answer": 2,
+   "source": "Visibilidad: El nivel de luz o la niebla afectan a la capacidad del piloto a distancia para mantener la aeronave en modo VLOS."
+  },
+  {
+   "id": "p145-1",
+   "page": 145,
+   "question": "¿Con qué aplicación web se verifican las restricciones del entorno de operación?",
+   "options": [
+    "www.aviationreporting.eu",
+    "https://drones.enaire.es/",
+    "ICARO XXI"
+   ],
+   "answer": 1,
+   "source": "Esta verificación se realizará consultando la aplicación web https://drones.enaire.es/"
+  },
+  {
+   "id": "p146-1",
+   "page": 146,
+   "question": "Ya sobre el terreno, antes de volar, el piloto debe…",
+   "options": [
+    "Pedir permiso a la policía local",
+    "Despegar y revisar la zona desde el aire",
+    "Explorar el área de operación, de forma visual o caminando"
+   ],
+   "answer": 2,
+   "source": "deberá realizar una exploración, ya sea de manera visual o caminando por el área de operación"
+  },
+  {
+   "id": "p147-1",
+   "page": 147,
+   "question": "Si se detectan personas no participantes en la zona de operación…",
+   "options": [
+    "Se puede volar por encima de ellas",
+    "Hay que darles instrucciones para que se alejen de la zona terrestre controlada",
+    "Hay que volar más bajo"
+   ],
+   "answer": 1,
+   "source": "se les debe proporcionar instrucciones para que se alejen de la zona terrestre controlada"
+  },
+  {
+   "id": "p147-2",
+   "page": 147,
+   "question": "¿Dónde es mayor el efecto de las interferencias electromagnéticas (radio, móviles, Wi-Fi…)?",
+   "options": [
+    "En entornos urbanos",
+    "Sobre el mar",
+    "En zonas rurales"
+   ],
+   "answer": 0,
+   "source": "Este efecto será mayor aún en entornos urbanos"
+  },
+  {
+   "id": "p148-1",
+   "page": 148,
+   "question": "Para asegurar que se han comprobado todos los puntos de la inspección previa, se recomienda…",
+   "options": [
+    "Confiar en la memoria",
+    "Hacer un vuelo de prueba sin revisar",
+    "Usar listas de control (checklist)"
+   ],
+   "answer": 2,
+   "source": "Es recomendable el uso de listas de control (checklist), para asegurar que todos los puntos necesarios han sido comprobados."
+  },
+  {
+   "id": "p149-1",
+   "page": 149,
+   "question": "Antes de la operación, para verificar que se encuentra en condiciones óptimas, el piloto usará la metodología…",
+   "options": [
+    "OODA",
+    "I’M SAFE",
+    "MEUH"
+   ],
+   "answer": 1,
+   "source": "el piloto a distancia deberá usar la metodología I’M SAFE"
+  },
+  {
+   "id": "p150-1",
+   "page": 150,
+   "question": "¿Qué se considera operación normal?",
+   "options": [
+    "Una operación rutinaria en la que no se prevé ninguna circunstancia que ponga en riesgo la seguridad del vuelo",
+    "Cualquier vuelo de menos de 10 minutos",
+    "Un vuelo con observador"
+   ],
+   "answer": 0,
+   "source": "Se considera operación normal aquella operación de carácter rutinario en la que no se prevé que vaya a ocurrir ninguna circunstancia que ponga en riesgo la seguridad del vuelo"
+  },
+  {
+   "id": "p151-1",
+   "page": 151,
+   "question": "Como componente de la consciencia situacional, la «proyección» es…",
+   "options": [
+    "Proyectar el vídeo en la pantalla",
+    "La capacidad de anticipar mentalmente y prevenir posibles eventos",
+    "La capacidad de ver la aeronave"
+   ],
+   "answer": 1,
+   "source": "Proyección: El piloto a distancia es capaz de anticipar mentalmente y prevenir los posibles eventos"
+  },
+  {
+   "id": "p152-1",
+   "page": 152,
+   "question": "¿Cuáles son los componentes de la consciencia situacional?",
+   "options": [
+    "Observar, decidir y actuar",
+    "Percepción, comprensión y proyección",
+    "Meteorología, entorno y UAS"
+   ],
+   "answer": 1,
+   "source": "Los componentes de la consciencia situacional (percepción, comprensión y proyección)"
+  },
+  {
+   "id": "p152-2",
+   "page": 152,
+   "question": "¿En qué consiste la técnica OODA?",
+   "options": [
+    "Operar – Orientar – Despegar – Aterrizar",
+    "Observar – Ordenar – Dirigir – Avisar",
+    "Observar – Ver opciones – Decidir – Actuar"
+   ],
+   "answer": 2,
+   "source": "Observar – Ver Opciones – Decidir - Actuar"
+  },
+  {
+   "id": "p153-1",
+   "page": 153,
+   "question": "¿Cuándo se aplican los procedimientos de contingencia o emergencia?",
+   "options": [
+    "Al terminar el vuelo",
+    "Cuando el piloto percibe un riesgo potencial",
+    "Durante el despegue, siempre"
+   ],
+   "answer": 1,
+   "source": "Los procedimientos de contingencia o de emergencia son aquellos que el piloto a distancia debe realizar cuando percibe un riesgo potencial"
+  },
+  {
+   "id": "p154-1",
+   "page": 154,
+   "question": "Como las medidas ante cada situación anómala dependen del tipo de aeronave, el piloto debe verificar…",
+   "options": [
+    "La normativa de privacidad",
+    "El procedimiento de actuación según las indicaciones del fabricante del UAS",
+    "El Reglamento de Circulación Aérea"
+   ],
+   "answer": 1,
+   "source": "deberá verificar el procedimiento de actuación de acuerdo a las indicaciones del fabricante del UAS dadas en sus instrucciones"
+  },
+  {
+   "id": "p155-1",
+   "page": 155,
+   "question": "Si se pierde o degrada la señal GNSS, el piloto debe…",
+   "options": [
+    "Activar la vuelta a casa (RTH)",
+    "Activar el modo manual y aterrizar la aeronave",
+    "Subir hasta recuperar la señal"
+   ],
+   "answer": 1,
+   "source": "En caso de pérdida o degradación de la señal GNSS, el piloto a distancia deberá activar el modo manual y aterrizar la aeronave."
+  },
+  {
+   "id": "p155-2",
+   "page": 155,
+   "question": "Si una persona entra en el área de operación, el piloto debe…",
+   "options": [
+    "Alejar la aeronave de ella y aterrizar de forma manual, evitando sobrevolarla",
+    "Sobrevolarla rápidamente",
+    "Mantener el vuelo estacionario sobre ella"
+   ],
+   "answer": 0,
+   "source": "el piloto deberá alejar la aeronave de dicha persona en la medida de lo posible y aterrizar la aeronave de forma manual, evitando en todo momento el sobrevuelo de esta persona"
+  },
+  {
+   "id": "p156-1",
+   "page": 156,
+   "question": "Si se observa una aeronave tripulada volando cerca del área de operación…",
+   "options": [
+    "El UAS debe aterrizar lo antes posible",
+    "Hay que subir para que la vean",
+    "Hay que seguir a la aeronave"
+   ],
+   "answer": 0,
+   "source": "Si se observa una aeronave tripulada volando cerca el área de operación, el UAS deberá ser aterrizado a la mayor brevedad posible."
+  },
+  {
+   "id": "p156-2",
+   "page": 156,
+   "question": "Si se pierde o degrada el enlace C2, el piloto debe…",
+   "options": [
+    "Acercarse con la unidad de mando a la aeronave para intentar recuperar el control y aterrizar",
+    "Alejarse de la aeronave",
+    "Apagar la emisora"
+   ],
+   "answer": 0,
+   "source": "el piloto deberá acercarse con la unidad de mando a la aeronave para tratar de recuperar el control y aterrizar"
+  },
+  {
+   "id": "p156-3",
+   "page": 156,
+   "question": "¿Qué se recomienda tener preprogramado por si se pierde el enlace C2?",
+   "options": [
+    "El geofencing",
+    "El modo sígueme",
+    "La vuelta a casa (RTH)"
+   ],
+   "answer": 2,
+   "source": "es recomendable tener preprogramado el “RTH” en caso de pérdida del enlace C2"
+  },
+  {
+   "id": "p157-1",
+   "page": 157,
+   "question": "Al terminar la operación, ¿qué debe anotar el piloto en el registro de vuelos?",
+   "options": [
+    "Toda la información relevante del vuelo, especialmente las horas de vuelo",
+    "Nada, no es necesario",
+    "Solo la fecha"
+   ],
+   "answer": 0,
+   "source": "el piloto debe anotar en el registro de vuelos de la aeronave toda la información relevante del vuelo, especialmente las horas de vuelo del mismo"
+  },
+  {
+   "id": "p157-2",
+   "page": 157,
+   "question": "Si durante el vuelo ha fallado algún sistema del UAS, el piloto debe…",
+   "options": [
+    "Hacer el mantenimiento oportuno y anotar la incidencia en el registro",
+    "Notificarlo a ENAIRE",
+    "Ignorarlo si el vuelo terminó bien"
+   ],
+   "answer": 0,
+   "source": "deberá realizar el mantenimiento oportuno, y anotar la incidencia en el registro"
+  },
+  {
+   "id": "p157-3",
+   "page": 157,
+   "question": "¿Quién debe hacer periódicamente el mantenimiento necesario teniendo en cuenta los registros de vuelo?",
+   "options": [
+    "El fabricante",
+    "El operador",
+    "AESA"
+   ],
+   "answer": 1,
+   "source": "el operador, teniendo en cuenta los registros de vuelo, deberá realizar periódicamente el mantenimiento necesario"
+  },
+  {
+   "id": "p158-1",
+   "page": 158,
+   "question": "¿Cuándo deben estar escritos los procedimientos operacionales?",
+   "options": [
+    "Cuando el operador y el piloto a distancia no sean la misma persona",
+    "Solo en la categoría «certificada»",
+    "Siempre, en cualquier operación"
+   ],
+   "answer": 0,
+   "source": "Los procedimientos operacionales deberán estar escritos cuando el operador y el piloto a distancia no sean la misma persona."
+  }
+ ]
+}
