@@ -2,13 +2,24 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp" android:height="108dp"
     android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Drone -->
+    <path android:strokeColor="#FFFFFFFF" android:strokeWidth="2.5" android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M41,30 L67,30" />
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M49,27.5 L59,27.5 Q61,27.5 61,29.5 L61,31.5 Q61,33.5 59,33.5 L49,33.5 Q47,33.5 47,31.5 L47,29.5 Q47,27.5 49,27.5 Z" />
+    <path android:fillColor="#FFF4EBD0"
+        android:pathData="M33,26.5 A8,2 0 1,1 49,26.5 A8,2 0 1,1 33,26.5 Z M59,26.5 A8,2 0 1,1 75,26.5 A8,2 0 1,1 59,26.5 Z" />
+    <path android:strokeColor="#FFFFFFFF" android:strokeWidth="2" android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M41,26.5 L41,30 M67,26.5 L67,30" />
     <!-- Open book -->
     <path android:fillColor="#FFF4EBD0"
-        android:pathData="M30,38 C38,35 46,36 53,40 L53,74 C46,70 38,69 30,72 Z" />
+        android:pathData="M30,42 C38,39 46,40 53,44 L53,78 C46,74 38,73 30,76 Z" />
     <path android:fillColor="#FFFFFFFF"
-        android:pathData="M55,40 C62,36 70,35 78,38 L78,72 C70,69 62,70 55,74 Z" />
+        android:pathData="M55,44 C62,40 70,39 78,42 L78,76 C70,73 62,74 55,78 Z" />
     <!-- Check mark -->
-    <path android:strokeColor="#FF2E5E3E" android:strokeWidth="4" android:strokeLineCap="round"
+    <path android:strokeColor="#FF1F4E79" android:strokeWidth="4" android:strokeLineCap="round"
         android:strokeLineJoin="round" android:fillColor="#00000000"
-        android:pathData="M60,56 L65,61 L73,50" />
+        android:pathData="M60,60 L65,65 L73,54" />
 </vector>

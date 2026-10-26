@@ -8,19 +8,34 @@ plugins {
 
 android {
     namespace = "com.examenesdrones.app"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.examenesdrones.app"
         minSdk = 26
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    // The Play upload key is described by DRONES_UPLOAD_* Gradle properties, kept in
+    // ~/.gradle/gradle.properties and never in the repo.
+    val uploadStoreFile = findProperty("DRONES_UPLOAD_STORE_FILE") as String?
+    signingConfigs {
+        if (uploadStoreFile != null) {
+            create("release") {
+                storeFile = file(uploadStoreFile)
+                storePassword = findProperty("DRONES_UPLOAD_STORE_PASSWORD") as String
+                keyAlias = findProperty("DRONES_UPLOAD_KEY_ALIAS") as String
+                keyPassword = findProperty("DRONES_UPLOAD_KEY_PASSWORD") as String
+            }
+        }
+    }
+
     buildTypes {
         release {
+            signingConfig = signingConfigs.findByName("release")
             isMinifyEnabled = false
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
